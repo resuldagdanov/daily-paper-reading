@@ -3,6 +3,18 @@ Just recording papers I read everyday ;)
 
 ----------------------------------------
 
+### Curriculum Learning
+- {2022-01-24} [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423.pdf) (ICLR, 2020)
+- {2022-01-23} [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z) (Nature, 2019)
+- {2022-01-22} [From few to more: Large-scale dynamic multiagent curriculum learning](https://ojs.aaai.org/index.php/AAAI/article/view/6221) (AAAI, 2020)
+- {2022-01-21} [Deep Reinforcement Learning for Event-Driven Multi-Agent Decision Processes](https://ieeexplore.ieee.org/abstract/document/8419722) (ITS, 2019)
+- {2022-01-20} [Cm3: Cooperative multi-goal multi-stage multi-agent reinforcement learning](https://arxiv.org/pdf/1809.05188.pdf?ref=https://githubhelp.com) (ICLR, 2020)
+- {2022-01-19} [Cooperative Multi-agent Control Using Deep Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-319-71682-4_5) (AAMAS, 2017)
+- {2022-01-18} [BaRC: Backward Reachability Curriculum for Robotic Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8794206) (ICRA, 2019)
+- {2022-01-17} [A survey on transfer learning for multiagent reinforcement learning systems](https://www.jair.org/index.php/jair/article/view/11396) (JAIR, 2019)
+- {2022-01-16} [Curriculum learning: A survey](https://arxiv.org/pdf/2101.10382.pdf) (2021)
+- {2022-01-15} [Behaviorally Diverse Traffic Simulation via Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341493) (IROS, 2020)
+
 ### Evolutionary Training
 - {2022-01-14} [A Coevolutionary Approach to Deep Multi-Agent Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3449726.3459576) (GECCO, 2021)
 - {2022-01-13} [Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination](http://proceedings.mlr.press/v119/majumdar20a/majumdar20a.pdf) (PMLR, 2020)
