@@ -4,13 +4,16 @@
 ----------------------------------------
 
 ### Multi-Agent Learning
-* {2022-01-30} [Multi-Agent Deep Reinforcement Learning for Large-Scale Traffic Signal Control](http://proceedings.mlr.press/v70/foerster17b.html) (PMLR, 2017)
+* {2022-02-03} [Deep Reinforcement Learning for Multiagent Systems: A Review of Challenges, Solutions, and Applications](https://ieeexplore.ieee.org/abstract/document/9043893) (ITC, 2020)
+* {2022-02-02} [Interaction-aware multi-agent reinforcement learning for mobile agents with individual goals](https://ieeexplore.ieee.org/abstract/document/8793721) (ICRA, 2019)
+* {2022-02-01} [A generalized training approach for multiagent learning](https://arxiv.org/pdf/1909.12823.pdf) (ICLR, 2020)
+* {2022-01-31} [MADRaS : Multi Agent Driving Simulator](https://www.jair.org/index.php/jair/article/view/12531) (JAIR, 2021)
+* {2022-01-30} [Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v70/foerster17b.html) (PMLR, 2017)
 * {2022-01-29} [Multi-Agent Deep Reinforcement Learning for Large-Scale Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/8667868f) (ITS, 2020)
 * {2022-01-28} [Multi-Agent Deep Reinforcement Learning](http://vision.stanford.edu/teaching/cs231n/reports/2016/pdfs/122_Report.pdf) (2016)
 * {2022-01-27} [Multi-agent actor-critic for mixed cooperative-competitive environments](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf) (NeurIPS, 2017)
 * {2022-01-26} [DeepRacer: Educational Autonomous Racing Platform for Experimentation with Sim2Real Reinforcement Learning](https://arxiv.org/pdf/1911.01562) (ICRA, 2019)
 * {2022-01-25} [Cooperative Multi-Agent Learning: The State of the Art](https://link.springer.com/article/10.1007/s10458-005-2631-2) (AAMAS, 2005)
-
 
 ### Curriculum Learning
 * {2022-01-24} [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423.pdf) (ICLR, 2020)
