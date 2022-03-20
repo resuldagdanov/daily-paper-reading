@@ -3,6 +3,21 @@
 
 ----------------------------------------
 
+### BlackBox Validation
+* {2022-03-06} [A Step Towards Efficient Evaluation of Complex Perception Tasks in Simulation](https://arxiv.org/pdf/2110.02739.pdf) (NeurIPS, 2021)
+* {2022-03-05} [AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems](https://ieeexplore.ieee.org/abstract/document/9251068) (ISSRE, 2020)
+* {2022-03-04} [Improved cross entropy-based importance sampling with a flexible mixture model](https://www.sciencedirect.com/science/article/pii/S0951832019301528) (Reliability Engineering and System Safety, 2019)
+* {2022-03-03} [Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation](https://proceedings.neurips.cc/paper/2018/file/653c579e3f9ba5c03f2f2f8cf4512b39-Paper.pdf) (NeurIPS, 2018)
+* {2022-03-02} [Importance Sampling in Rare Event Simulation](https://www.researchgate.net/profile/Pierre-Lecuyer/publication/228045852_Rare_Event_Simulation_using_Monte_Carlo_Methods/links/5996fbf1aca2725e744efbfd/Rare-Event-Simulation-using-Monte-Carlo-Methods.pdf) (2009)
+* {2022-03-01} [Generalized Cross-entropy Methods with Applications to Rare-event Simulation and Optimization](https://journals.sagepub.com/doi/pdf/10.1177/0037549707087067) (Simulation, 2007)
+* {2022-02-28} [Detecting Safety Problems of Multi-Sensor Fusion in Autonomous Driving](https://arxiv.org/pdf/2109.06404.pdf) (CoRR, 2021)
+* {2022-02-27} [Efficient Black-box Assessment of Autonomous Vehicle Safety](https://arxiv.org/pdf/1912.03618.pdf) (CoRR, 2019)
+* {2022-02-26} [Neural Bridge Sampling for Evaluating Safety-Critical Autonomous Systems](https://proceedings.neurips.cc/paper/2020/file/475d66314dc56a0df8fb8f7c5dbbaf78-Paper.pdf) (NeurIPS, 2020)
+* {2022-02-25} [Cross entropy-based importance sampling using Gaussian densities revisited](https://www.sciencedirect.com/science/article/pii/S0167473017303429) (Structural Safety, 2019)
+* {2022-02-24} [Adaptive Multilevel Splitting for Rare Event Analysis](https://www.tandfonline.com/doi/pdf/10.1080/07362990601139628) (Stochastic Analysis and Applications, 2007)
+* {2022-02-23} [Testing advanced driver assistance systems using multi-objective search and neural networks](https://dl.acm.org/doi/pdf/10.1145/2970276.2970311) (ACM, 2016)
+* {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
+
 ### Carla Challenge
 * {2022-02-21} [GRI: General Reinforced Imitation and its Application to Vision-Based Autonomous Driving](https://arxiv.org/pdf/2111.08575v1.pdf) (2021)
 * {2022-02-20} [Sample Efficient Interactive End-to-End Deep Learning for Self-Driving Cars with Selective Multi-Class Safe Dataset Aggregation](https://ieeexplore.ieee.org/abstract/document/8967948) (IROS, 2019)
