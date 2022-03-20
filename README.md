@@ -3,7 +3,11 @@
 
 ----------------------------------------
 
-### Data Distillation
+### Offline Learning & Data Distillation
+* {2022-03-20} [Conservative Q-Learning for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf) (NeurIPS, 2020)
+* {2022-03-19} [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/pdf/2203.01387.pdf) (2022)
+* {2022-03-18} [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/2005.01643.pdf) (PMLR, 2019)
+* {2022-03-17} [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf) (2020)
 * {2022-03-16} [Should I Run Offline Reinforcement Learning or Behavioral Cloning?](https://openreview.net/pdf?id=iQibgAN7mT) (NeurIPS, 2021)
 * {2022-03-15} [Knowledge Distillation: A Survey](https://link.springer.com/article/10.1007/s11263-021-01453-z) (IJCV, 2021)
 * {2022-03-14} [Knowledge distillation in deep learning and its applications](https://peerj.com/articles/cs-474.pdf) (PeerJ Computer Science, 2021)
