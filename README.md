@@ -3,6 +3,18 @@
 
 ----------------------------------------
 
+### Data Distillation
+* {2022-03-16} [Should I Run Offline Reinforcement Learning or Behavioral Cloning?](https://openreview.net/pdf?id=iQibgAN7mT) (NeurIPS, 2021)
+* {2022-03-15} [Knowledge Distillation: A Survey](https://link.springer.com/article/10.1007/s11263-021-01453-z) (IJCV, 2021)
+* {2022-03-14} [Knowledge distillation in deep learning and its applications](https://peerj.com/articles/cs-474.pdf) (PeerJ Computer Science, 2021)
+* {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
+* {2022-03-12} [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/pdf/2004.07219.pdf) (2021)
+* {2022-03-11} [Prioritized Level Replay](https://arxiv.org/pdf/2010.03934.pdf) (PMLR, 2021)
+* {2022-03-10} [Sparse Graphical Memory for Robust Planning](https://arxiv.org/pdf/2003.06417.pdf) (NeurIPS, 2020)
+* {2022-03-09} [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952) (ICLR, 2016)
+* {2022-03-08} [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.13425.pdf) (2022)
+* {2022-03-07} [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://proceedings.neurips.cc/paper/2021/file/ac56f8fe9eea3e4a365f29f0f1957c55-Paper.pdf) (NeurIPS, 2021)
+
 ### BlackBox Validation
 * {2022-03-06} [A Step Towards Efficient Evaluation of Complex Perception Tasks in Simulation](https://arxiv.org/pdf/2110.02739.pdf) (NeurIPS, 2021)
 * {2022-03-05} [AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems](https://ieeexplore.ieee.org/abstract/document/9251068) (ISSRE, 2020)
