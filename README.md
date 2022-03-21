@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Offline Learning & Data Distillation
+* {2022-03-21} [Regularized Behavior Value Estimation](https://arxiv.org/pdf/2103.09575.pdf) (2021)
 * {2022-03-20} [Conservative Q-Learning for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf) (NeurIPS, 2020)
 * {2022-03-19} [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/pdf/2203.01387.pdf) (2022)
 * {2022-03-18} [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/2005.01643.pdf) (PMLR, 2019)
