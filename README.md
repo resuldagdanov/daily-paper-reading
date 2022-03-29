@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Offline Learning & Data Distillation
+* {2022-03-24} [Offline Learning from Demonstrations and Unlabeled Experience](https://arxiv.org/pdf/2011.13885.pdf) (NeurIPS, 2020)
 * {2022-03-23} [Semi-parametric topological memory for navigation](https://arxiv.org/pdf/1803.00653.pdf?ref=https://githubhelp.com) (ICLR, 2018)
 * {2022-03-22} [Search on the Replay Buffer: Bridging Planning and Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/5c48ff18e0a47baaf81d8b8ea51eec92-Paper.pdf) (NeurIPS, 2019)
 * {2022-03-21} [Regularized Behavior Value Estimation](https://arxiv.org/pdf/2103.09575.pdf) (2021)
