@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Offline Learning & Data Distillation
+* {2022-03-27} [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/pdf/1905.12310.pdf?ref=https://githubhelp.com) (2019)
 * {2022-03-26} [IQ-Learn: Inverse soft-Q Learning for Imitation](https://proceedings.neurips.cc/paper/2021/file/210f760a89db30aa72ca258a3483cc7f-Paper.pdf) (NeurIPS, 2021)
 * {2022-03-25} [Critic Regularized Regression](https://proceedings.neurips.cc/paper/2020/file/588cb956d6bbe67078f29f8de420a13d-Paper.pdf) (NeurIPS, 2020)
 * {2022-03-24} [Offline Learning from Demonstrations and Unlabeled Experience](https://arxiv.org/pdf/2011.13885.pdf) (NeurIPS, 2020)
