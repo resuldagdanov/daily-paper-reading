@@ -3,6 +3,9 @@
 
 ----------------------------------------
 
+### Imitation Learning in Autonomous Driving
+* {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
+
 ### Offline Learning & Data Distillation
 * {2022-03-27} [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/pdf/1905.12310.pdf?ref=https://githubhelp.com) (2019)
 * {2022-03-26} [IQ-Learn: Inverse soft-Q Learning for Imitation](https://proceedings.neurips.cc/paper/2021/file/210f760a89db30aa72ca258a3483cc7f-Paper.pdf) (NeurIPS, 2021)
