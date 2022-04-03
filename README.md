@@ -7,6 +7,7 @@
 * {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
 
 ### Offline Learning & Data Distillation
+* {2022-04-01} [Data Distribution Search to Select Core-Set for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3426020.3426066) (SMA, 2020)
 * {2022-03-27} [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/pdf/1905.12310.pdf?ref=https://githubhelp.com) (2019)
 * {2022-03-26} [IQ-Learn: Inverse soft-Q Learning for Imitation](https://proceedings.neurips.cc/paper/2021/file/210f760a89db30aa72ca258a3483cc7f-Paper.pdf) (NeurIPS, 2021)
 * {2022-03-25} [Critic Regularized Regression](https://proceedings.neurips.cc/paper/2020/file/588cb956d6bbe67078f29f8de420a13d-Paper.pdf) (NeurIPS, 2020)
