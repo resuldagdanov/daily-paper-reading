@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Imitation Learning in Autonomous Driving
+* {2022-04-03} [HG-DAgger: Interactive Imitation Learning with Human Experts](https://ieeexplore.ieee.org/abstract/document/8793698) (ICRA, 2019)
 * {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
 
 ### Offline Learning & Data Distillation
