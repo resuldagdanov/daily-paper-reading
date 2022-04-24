@@ -4,14 +4,14 @@
 ----------------------------------------
 
 ### Imitation Learning in Autonomous Driving
-* {2022-04-07} [Learning by Sampling and Compressing: Efficient Graph Representation Learning with Extremely Limited Annotations](https://arxiv.org/pdf/2003.06100.pdf) (AAAI, 2020)
-* {2022-04-06} [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/pdf/2004.02757.pdf) (2020)
 * {2022-04-05} [A Human-Like Agent Based on a Hybrid of Reinforcement and Imitation Learning](https://ieeexplore.ieee.org/abstract/document/8852026) (IJCNN, 2019)
 * {2022-04-04} [Continuous Online Learning and New Insights to Online Imitation Learning](https://arxiv.org/pdf/1912.01261.pdf) (NeurIPS, 2019)
 * {2022-04-03} [HG-DAgger: Interactive Imitation Learning with Human Experts](https://ieeexplore.ieee.org/abstract/document/8793698) (ICRA, 2019)
 * {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
 
 ### Offline Learning & Data Distillation
+* {2022-04-23} [Learning by Sampling and Compressing: Efficient Graph Representation Learning with Extremely Limited Annotations](https://arxiv.org/pdf/2003.06100.pdf) (AAAI, 2020)
+* {2022-04-22} [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/pdf/2004.02757.pdf) (2020)
 * {2022-04-02} [Analysis of Learning Influence of Training Data Selected by Distribution Consistency](https://www.mdpi.com/1424-8220/21/4/1045) (Sensors, 2021)
 * {2022-04-01} [Data Distribution Search to Select Core-Set for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3426020.3426066) (SMA, 2020)
 * {2022-03-27} [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/pdf/1905.12310.pdf?ref=https://githubhelp.com) (2019)
