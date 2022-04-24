@@ -4,6 +4,8 @@
 ----------------------------------------
 
 ### Imitation Learning in Autonomous Driving
+
+* {2022-04-06} [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/pdf/2004.02757.pdf) (2020)
 * {2022-04-05} [A Human-Like Agent Based on a Hybrid of Reinforcement and Imitation Learning](https://ieeexplore.ieee.org/abstract/document/8852026) (IJCNN, 2019)
 * {2022-04-04} [Continuous Online Learning and New Insights to Online Imitation Learning](https://arxiv.org/pdf/1912.01261.pdf) (NeurIPS, 2019)
 * {2022-04-03} [HG-DAgger: Interactive Imitation Learning with Human Experts](https://ieeexplore.ieee.org/abstract/document/8793698) (ICRA, 2019)
