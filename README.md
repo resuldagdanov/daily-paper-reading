@@ -10,6 +10,7 @@
 * {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
 
 ### Offline Learning & Data Distillation
+* {2022-04-25} [Deterministic Graph Exploration for Efficient Graph Sampling](https://link.springer.com/article/10.1007/s13278-017-0441-6) (SNAM, 2017)
 * {2022-04-24} [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://proceedings.neurips.cc/paper/2021/file/60ce36723c17bbac504f2ef4c8a46995-Paper.pdf) (NeurIPS, 2021)
 * {2022-04-23} [Learning by Sampling and Compressing: Efficient Graph Representation Learning with Extremely Limited Annotations](https://arxiv.org/pdf/2003.06100.pdf) (AAAI, 2020)
 * {2022-04-22} [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/pdf/2004.02757.pdf) (2020)
