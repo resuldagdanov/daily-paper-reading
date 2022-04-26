@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Imitation Learning in Autonomous Driving
+* {2022-04-26} [Safe Driving via Expert Guided Policy Optimization](https://proceedings.mlr.press/v164/peng22a/peng22a.pdf) (CoRL, 2021)
 * {2022-04-05} [A Human-Like Agent Based on a Hybrid of Reinforcement and Imitation Learning](https://ieeexplore.ieee.org/abstract/document/8852026) (IJCNN, 2019)
 * {2022-04-04} [Continuous Online Learning and New Insights to Online Imitation Learning](https://arxiv.org/pdf/1912.01261.pdf) (NeurIPS, 2019)
 * {2022-04-03} [HG-DAgger: Interactive Imitation Learning with Human Experts](https://ieeexplore.ieee.org/abstract/document/8793698) (ICRA, 2019)
