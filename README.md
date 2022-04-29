@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Data Sampling
+* {2022-04-29} [Active Mini-Batch Sampling Using Repulsive Point Processes](https://ojs.aaai.org/index.php/AAAI/article/view/4520) (AAAI, 2019)
 * {2022-04-28} [Rank Degree: An Efficient Algorithm for Graph Sampling](https://ieeexplore.ieee.org/abstract/document/7752223) (ASONAM, 2016)
 * {2022-04-25} [Deterministic Graph Exploration for Efficient Graph Sampling](https://link.springer.com/article/10.1007/s13278-017-0441-6) (SNAM, 2017)
 * {2022-04-23} [Learning by Sampling and Compressing: Efficient Graph Representation Learning with Extremely Limited Annotations](https://arxiv.org/pdf/2003.06100.pdf) (AAAI, 2020)
