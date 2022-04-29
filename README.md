@@ -3,6 +3,12 @@
 
 ----------------------------------------
 
+### Data Sampling
+* {2022-04-28} [Rank Degree: An Efficient Algorithm for Graph Sampling](https://ieeexplore.ieee.org/abstract/document/7752223) (ASONAM, 2016)
+* {2022-04-25} [Deterministic Graph Exploration for Efficient Graph Sampling](https://link.springer.com/article/10.1007/s13278-017-0441-6) (SNAM, 2017)
+* {2022-04-23} [Learning by Sampling and Compressing: Efficient Graph Representation Learning with Extremely Limited Annotations](https://arxiv.org/pdf/2003.06100.pdf) (AAAI, 2020)
+* {2022-04-22} [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/pdf/2004.02757.pdf) (2020)
+
 ### Imitation Learning in Autonomous Driving
 * {2022-04-27} [Safe and Computational Efficient Imitation Learning for Autonomous Vehicle Driving](https://ieeexplore.ieee.org/abstract/document/9147256) (ACC, 2020)
 * {2022-04-26} [Safe Driving via Expert Guided Policy Optimization](https://proceedings.mlr.press/v164/peng22a/peng22a.pdf) (CoRL, 2021)
@@ -11,11 +17,8 @@
 * {2022-04-03} [HG-DAgger: Interactive Imitation Learning with Human Experts](https://ieeexplore.ieee.org/abstract/document/8793698) (ICRA, 2019)
 * {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
 
-### Offline Learning & Data Distillation
-* {2022-04-25} [Deterministic Graph Exploration for Efficient Graph Sampling](https://link.springer.com/article/10.1007/s13278-017-0441-6) (SNAM, 2017)
+### Offline Learning
 * {2022-04-24} [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://proceedings.neurips.cc/paper/2021/file/60ce36723c17bbac504f2ef4c8a46995-Paper.pdf) (NeurIPS, 2021)
-* {2022-04-23} [Learning by Sampling and Compressing: Efficient Graph Representation Learning with Extremely Limited Annotations](https://arxiv.org/pdf/2003.06100.pdf) (AAAI, 2020)
-* {2022-04-22} [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/pdf/2004.02757.pdf) (2020)
 * {2022-04-02} [Analysis of Learning Influence of Training Data Selected by Distribution Consistency](https://www.mdpi.com/1424-8220/21/4/1045) (Sensors, 2021)
 * {2022-04-01} [Data Distribution Search to Select Core-Set for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3426020.3426066) (SMA, 2020)
 * {2022-03-27} [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/pdf/1905.12310.pdf?ref=https://githubhelp.com) (2019)
@@ -30,15 +33,17 @@
 * {2022-03-18} [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/2005.01643.pdf) (PMLR, 2019)
 * {2022-03-17} [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf) (2020)
 * {2022-03-16} [Should I Run Offline Reinforcement Learning or Behavioral Cloning?](https://openreview.net/pdf?id=iQibgAN7mT) (NeurIPS, 2021)
-* {2022-03-15} [Knowledge Distillation: A Survey](https://link.springer.com/article/10.1007/s11263-021-01453-z) (IJCV, 2021)
-* {2022-03-14} [Knowledge distillation in deep learning and its applications](https://peerj.com/articles/cs-474.pdf) (PeerJ Computer Science, 2021)
-* {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 * {2022-03-12} [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/pdf/2004.07219.pdf) (2021)
 * {2022-03-11} [Prioritized Level Replay](https://arxiv.org/pdf/2010.03934.pdf) (PMLR, 2021)
 * {2022-03-10} [Sparse Graphical Memory for Robust Planning](https://arxiv.org/pdf/2003.06417.pdf) (NeurIPS, 2020)
 * {2022-03-09} [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952) (ICLR, 2016)
 * {2022-03-08} [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.13425.pdf) (2022)
 * {2022-03-07} [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://proceedings.neurips.cc/paper/2021/file/ac56f8fe9eea3e4a365f29f0f1957c55-Paper.pdf) (NeurIPS, 2021)
+
+### Knowledge & Dataset Distillation
+* {2022-03-15} [Knowledge Distillation: A Survey](https://link.springer.com/article/10.1007/s11263-021-01453-z) (IJCV, 2021)
+* {2022-03-14} [Knowledge distillation in deep learning and its applications](https://peerj.com/articles/cs-474.pdf) (PeerJ Computer Science, 2021)
+* {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 
 ### BlackBox Validation
 * {2022-03-06} [A Step Towards Efficient Evaluation of Complex Perception Tasks in Simulation](https://arxiv.org/pdf/2110.02739.pdf) (NeurIPS, 2021)
