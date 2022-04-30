@@ -19,6 +19,7 @@
 * {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
 
 ### Offline Learning
+* {2022-04-30} [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/pdf/2112.10751.pdf) (2021)
 * {2022-04-24} [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://proceedings.neurips.cc/paper/2021/file/60ce36723c17bbac504f2ef4c8a46995-Paper.pdf) (NeurIPS, 2021)
 * {2022-04-02} [Analysis of Learning Influence of Training Data Selected by Distribution Consistency](https://www.mdpi.com/1424-8220/21/4/1045) (Sensors, 2021)
 * {2022-04-01} [Data Distribution Search to Select Core-Set for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3426020.3426066) (SMA, 2020)
