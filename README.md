@@ -3,6 +3,13 @@
 
 ----------------------------------------
 
+### Graph Based Reinforcement Learning
+* {2022-05-02} [Graph-Enhanced Exploration for Goal-Oriented Reinforcement Learning](https://openreview.net/pdf?id=rlYiXFdSy70) (ICLR, 2022)
+* {2022-05-01} [Grid-to-Graph: Flexible Spatial Relational Inductive Biases for Reinforcement Learning](https://arxiv.org/pdf/2102.04220.pdf) (AAMAS, 2021)
+* {2022-03-23} [Semi-parametric topological memory for navigation](https://arxiv.org/pdf/1803.00653.pdf?ref=https://githubhelp.com) (ICLR, 2018)
+* {2022-03-22} [Search on the Replay Buffer: Bridging Planning and Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/5c48ff18e0a47baaf81d8b8ea51eec92-Paper.pdf) (NeurIPS, 2019)
+* {2022-03-10} [Sparse Graphical Memory for Robust Planning](https://arxiv.org/pdf/2003.06417.pdf) (NeurIPS, 2020)
+
 ### Data Sampling
 * {2022-04-29} [Active Mini-Batch Sampling Using Repulsive Point Processes](https://ojs.aaai.org/index.php/AAAI/article/view/4520) (AAAI, 2019)
 * {2022-04-28} [Rank Degree: An Efficient Algorithm for Graph Sampling](https://ieeexplore.ieee.org/abstract/document/7752223) (ASONAM, 2016)
@@ -19,7 +26,6 @@
 * {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
 
 ### Offline Learning
-* {2022-05-01} [Grid-to-Graph: Flexible Spatial Relational Inductive Biases for Reinforcement Learning](https://arxiv.org/pdf/2102.04220.pdf) (AAMAS, 2021)
 * {2022-04-30} [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/pdf/2112.10751.pdf) (2021)
 * {2022-04-24} [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://proceedings.neurips.cc/paper/2021/file/60ce36723c17bbac504f2ef4c8a46995-Paper.pdf) (NeurIPS, 2021)
 * {2022-04-02} [Analysis of Learning Influence of Training Data Selected by Distribution Consistency](https://www.mdpi.com/1424-8220/21/4/1045) (Sensors, 2021)
@@ -28,8 +34,6 @@
 * {2022-03-26} [IQ-Learn: Inverse soft-Q Learning for Imitation](https://proceedings.neurips.cc/paper/2021/file/210f760a89db30aa72ca258a3483cc7f-Paper.pdf) (NeurIPS, 2021)
 * {2022-03-25} [Critic Regularized Regression](https://proceedings.neurips.cc/paper/2020/file/588cb956d6bbe67078f29f8de420a13d-Paper.pdf) (NeurIPS, 2020)
 * {2022-03-24} [Offline Learning from Demonstrations and Unlabeled Experience](https://arxiv.org/pdf/2011.13885.pdf) (NeurIPS, 2020)
-* {2022-03-23} [Semi-parametric topological memory for navigation](https://arxiv.org/pdf/1803.00653.pdf?ref=https://githubhelp.com) (ICLR, 2018)
-* {2022-03-22} [Search on the Replay Buffer: Bridging Planning and Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/5c48ff18e0a47baaf81d8b8ea51eec92-Paper.pdf) (NeurIPS, 2019)
 * {2022-03-21} [Regularized Behavior Value Estimation](https://arxiv.org/pdf/2103.09575.pdf) (2021)
 * {2022-03-20} [Conservative Q-Learning for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf) (NeurIPS, 2020)
 * {2022-03-19} [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/pdf/2203.01387.pdf) (2022)
@@ -38,7 +42,6 @@
 * {2022-03-16} [Should I Run Offline Reinforcement Learning or Behavioral Cloning?](https://openreview.net/pdf?id=iQibgAN7mT) (NeurIPS, 2021)
 * {2022-03-12} [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/pdf/2004.07219.pdf) (2021)
 * {2022-03-11} [Prioritized Level Replay](https://arxiv.org/pdf/2010.03934.pdf) (PMLR, 2021)
-* {2022-03-10} [Sparse Graphical Memory for Robust Planning](https://arxiv.org/pdf/2003.06417.pdf) (NeurIPS, 2020)
 * {2022-03-09} [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952) (ICLR, 2016)
 * {2022-03-08} [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.13425.pdf) (2022)
 * {2022-03-07} [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://proceedings.neurips.cc/paper/2021/file/ac56f8fe9eea3e4a365f29f0f1957c55-Paper.pdf) (NeurIPS, 2021)
