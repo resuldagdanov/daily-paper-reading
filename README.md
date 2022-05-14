@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Graph Based Reinforcement Learning
+* {2022-05-05} [Sample-Efficient Deep Reinforcement Learning with Directed Associative Graph](https://ieeexplore.ieee.org/abstract/document/9459568) (China Communications, 2021)
 * {2022-05-04} [Topological Experience Replay](https://arxiv.org/pdf/2203.15845.pdf) (ICLR, 2022)
 * {2022-05-03} [Graph-based State Representation for Deep Reinforcement Learning](https://arxiv.org/pdf/2004.13965.pdf) (2020)
 * {2022-05-02} [Graph-Enhanced Exploration for Goal-Oriented Reinforcement Learning](https://openreview.net/pdf?id=rlYiXFdSy70) (ICLR, 2022)
