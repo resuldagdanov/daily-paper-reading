@@ -4,9 +4,10 @@
 ----------------------------------------
 
 ### Graph Based Reinforcement Learning
+* {2022-05-06} [Reinforcement Learning and Graph Embedding for Binary Truss Topology Optimization Under Stress and Displacement Constraints](https://www.frontiersin.org/articles/10.3389/fbuil.2020.00059/full) (Frontiers Built Environ, 2020)
 * {2022-05-05} [Sample-Efficient Deep Reinforcement Learning with Directed Associative Graph](https://ieeexplore.ieee.org/abstract/document/9459568) (China Communications, 2021)
 * {2022-05-04} [Topological Experience Replay](https://arxiv.org/pdf/2203.15845.pdf) (ICLR, 2022)
-* {2022-05-03} [Graph-based State Representation for Deep Reinforcement Learning](https://arxiv.org/pdf/2004.13965.pdf) (2020)
+* {2022-05-03} [Graph-Based State Representation for Deep Reinforcement Learning](https://arxiv.org/pdf/2004.13965.pdf) (2020)
 * {2022-05-02} [Graph-Enhanced Exploration for Goal-Oriented Reinforcement Learning](https://openreview.net/pdf?id=rlYiXFdSy70) (ICLR, 2022)
 * {2022-05-01} [Grid-to-Graph: Flexible Spatial Relational Inductive Biases for Reinforcement Learning](https://arxiv.org/pdf/2102.04220.pdf) (AAMAS, 2021)
 * {2022-03-23} [Semi-parametric topological memory for navigation](https://arxiv.org/pdf/1803.00653.pdf?ref=https://githubhelp.com) (ICLR, 2018)
