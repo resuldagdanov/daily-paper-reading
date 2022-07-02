@@ -72,6 +72,7 @@
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
 ### Carla Challenge
+* {2022-07-02} [Learning from All Vehicles](https://arxiv.org/abs/2203.11934) (CVPR, 2022)
 * {2022-07-01} [TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://arxiv.org/abs/2205.15997) (CVPR, 2022)
 * {2022-02-21} [GRI: General Reinforced Imitation and its Application to Vision-Based Autonomous Driving](https://arxiv.org/pdf/2111.08575v1.pdf) (2021)
 * {2022-02-20} [Sample Efficient Interactive End-to-End Deep Learning for Self-Driving Cars with Selective Multi-Class Safe Dataset Aggregation](https://ieeexplore.ieee.org/abstract/document/8967948) (IROS, 2019)
