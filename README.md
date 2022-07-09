@@ -60,6 +60,7 @@
 * {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 
 ### BlackBox Validation
+* {2022-07-09} [Adaptive Importance Sampling with Automatic Model Selection in Value Function Approximation](https://www.aaai.org/Papers/AAAI/2008/AAAI08-214.pdf) (AAAI, 2008)
 * {2022-03-06} [A Step Towards Efficient Evaluation of Complex Perception Tasks in Simulation](https://arxiv.org/pdf/2110.02739.pdf) (NeurIPS, 2021)
 * {2022-03-05} [AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems](https://ieeexplore.ieee.org/abstract/document/9251068) (ISSRE, 2020)
 * {2022-03-04} [Improved cross entropy-based importance sampling with a flexible mixture model](https://www.sciencedirect.com/science/article/pii/S0951832019301528) (Reliability Engineering and System Safety, 2019)
