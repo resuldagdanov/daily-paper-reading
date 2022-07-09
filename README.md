@@ -15,6 +15,7 @@
 * {2022-03-10} [Sparse Graphical Memory for Robust Planning](https://arxiv.org/pdf/2003.06417.pdf) (NeurIPS, 2020)
 
 ### Data Sampling
+* {2022-07-08} [Making Efficient Use of Demonstrations to Solve Hard Exploration Problems](https://www.deepmind.com/publications/making-efficient-use-of-demonstrations-to-solve-hard-exploration-problems) (ICLR, 2019)
 * {2022-04-29} [Active Mini-Batch Sampling Using Repulsive Point Processes](https://ojs.aaai.org/index.php/AAAI/article/view/4520) (AAAI, 2019)
 * {2022-04-28} [Rank Degree: An Efficient Algorithm for Graph Sampling](https://ieeexplore.ieee.org/abstract/document/7752223) (ASONAM, 2016)
 * {2022-04-25} [Deterministic Graph Exploration for Efficient Graph Sampling](https://link.springer.com/article/10.1007/s13278-017-0441-6) (SNAM, 2017)
