@@ -76,6 +76,7 @@
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
 ### Carla Challenge
+* {2022-07-10} [End-to-End Urban Driving by Imitating a Reinforcement Learning Coach](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_End-to-End_Urban_Driving_by_Imitating_a_Reinforcement_Learning_Coach_ICCV_2021_paper.html) (ICCV, 2021)
 * {2022-07-03} [Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline](https://arxiv.org/abs/2206.08129) (2022)
 * {2022-07-02} [Learning from All Vehicles](https://arxiv.org/abs/2203.11934) (CVPR, 2022)
 * {2022-07-01} [TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://arxiv.org/abs/2205.15997) (CVPR, 2022)
