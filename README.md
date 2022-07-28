@@ -60,6 +60,7 @@
 * {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 
 ### BlackBox Validation
+* {2022-07-28} [Adaptive Stress Testing with Reward Augmentation for Autonomous Vehicle Validation](https://ieeexplore.ieee.org/abstract/document/8917242) (ITSC, 2019)
 * {2022-07-14} [Adaptive Stress Testing for Autonomous Vehicles](https://ieeexplore.ieee.org/document/8500400) (IV, 2018)
 * {2022-07-13} [Survey on Scenario-Based Safety Assessment of Automated Vehicles](https://ieeexplore.ieee.org/abstract/document/9090897) (IEEE Access, 2020)
 * {2022-07-09} [Adaptive Importance Sampling with Automatic Model Selection in Value Function Approximation](https://www.aaai.org/Papers/AAAI/2008/AAAI08-214.pdf) (AAAI, 2008)
