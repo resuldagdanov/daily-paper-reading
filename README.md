@@ -3,6 +3,9 @@
 
 ----------------------------------------
 
+### Battery Management System
+* {2022-08-07} [Overview of Batteries and Battery Management for Electric Vehicles](https://www.sciencedirect.com/science/article/pii/S2352484722005716) (Energy Reports 8, 2022)
+
 ### Graph Based Reinforcement Learning
 * {2022-05-06} [Reinforcement Learning and Graph Embedding for Binary Truss Topology Optimization Under Stress and Displacement Constraints](https://www.frontiersin.org/articles/10.3389/fbuil.2020.00059/full) (Frontiers Built Environ, 2020)
 * {2022-05-05} [Sample-Efficient Deep Reinforcement Learning with Directed Associative Graph](https://ieeexplore.ieee.org/abstract/document/9459568) (China Communications, 2021)
