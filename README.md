@@ -3,7 +3,8 @@
 
 ----------------------------------------
 
-### Battery Management System
+### Battery Management System for Electric Vehicles
+* {2022-08-08} [Initiation of Thermal Runaway in Lithium-Ion Cells by Inductive Heating](https://www.sciencedirect.com/science/article/pii/S0378775320302172) (Journal of Power Sources 454, 2020)
 * {2022-08-07} [Overview of Batteries and Battery Management for Electric Vehicles](https://www.sciencedirect.com/science/article/pii/S2352484722005716) (Energy Reports 8, 2022)
 
 ### Graph Based Reinforcement Learning
