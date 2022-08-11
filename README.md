@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Battery Management System for Electric Vehicles
+* {2022-08-09} [A Review of Lithium-Ion Battery Thermal Runaway Modeling and Diagnosis Approaches](https://www.mdpi.com/2227-9717/10/6/1192) (Journal of Processes, 2022)
 * {2022-08-08} [Initiation of Thermal Runaway in Lithium-Ion Cells by Inductive Heating](https://www.sciencedirect.com/science/article/pii/S0378775320302172) (Journal of Power Sources 454, 2020)
 * {2022-08-07} [Overview of Batteries and Battery Management for Electric Vehicles](https://www.sciencedirect.com/science/article/pii/S2352484722005716) (Energy Reports 8, 2022)
 
