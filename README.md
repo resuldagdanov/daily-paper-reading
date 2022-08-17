@@ -66,6 +66,7 @@
 * {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 
 ### BlackBox Validation
+* {2022-08-16} [Building Safer Autonomous Agents by Leveraging Risky Driving Behavior Knowledge](https://ieeexplore.ieee.org/abstract/document/9583209?casa_token=WPZJafwseE8AAAAA:uRtUzpB-qqw5cGmvDbE5AOGc0aVN68afIrJ65yQ1GxgwJG_ogCoqj9cTqfgDNIuXxoIeR_rSiCc) (CCCI, 2021)
 * {2022-07-28} [Adaptive Stress Testing with Reward Augmentation for Autonomous Vehicle Validation](https://ieeexplore.ieee.org/abstract/document/8917242) (ITSC, 2019)
 * {2022-07-14} [Adaptive Stress Testing for Autonomous Vehicles](https://ieeexplore.ieee.org/document/8500400) (IV, 2018)
 * {2022-07-13} [Survey on Scenario-Based Safety Assessment of Automated Vehicles](https://ieeexplore.ieee.org/abstract/document/9090897) (IEEE Access, 2020)
