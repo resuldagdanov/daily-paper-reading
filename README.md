@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Battery Management System for Electric Vehicles
+* {2022-08-21} [Rapid Failure Mode Classification and Quantification in Batteries: A Deep Learning Modeling Framework](https://www.sciencedirect.com/science/article/pii/S2405829721003275?casa_token=UgPie2X5iN0AAAAA:JPdPg1XneK_7hx4LB5VZw0-CXaQ1DfgtT4ieKM2mvZo8PYIjM1Kre9sYDEPOBmj2uOKNVhZbejE) (Energy Storage Materials, 2022)
 * {2022-08-20} [Detecting Electric Vehicle Battery Failure via Dynamic-VAE](https://arxiv.org/abs/2201.12358) (2022)
 * {2022-08-19} [Machine Learning-Based Data-Driven Fault Detection/Diagnosis of Lithium-Ion Battery: A Critical Review](https://www.mdpi.com/2079-9292/10/11/1309) (Journal of Electronics, 2021)
 * {2022-08-10} [Fault Prognosis of Battery System Based on Accurate Voltage Abnormity Prognosis Using Long Short-Term Memory Neural Networks](https://www.sciencedirect.com/science/article/pii/S0306261919310554?casa_token=dClQVOnM1MYAAAAA:SHeyBmSPXqSvR1vpjnoGpqeCYZZh1949X7d2fpTEfr-EOq2uzymj8podi5uCrm_jaj4CN_2h) (Applied Energy, 2019)
