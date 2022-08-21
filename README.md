@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Battery Management System for Electric Vehicles
+* {2022-08-19} [Machine Learning-Based Data-Driven Fault Detection/Diagnosis of Lithium-Ion Battery: A Critical Review](https://www.mdpi.com/2227-9717/10/6/1192https://www.mdpi.com/2079-9292/10/11/1309) (Journal of Electronics, 2021)
 * {2022-08-10} [Fault Prognosis of Battery System Based on Accurate Voltage Abnormity Prognosis Using Long Short-Term Memory Neural Networks](https://www.sciencedirect.com/science/article/pii/S0306261919310554?casa_token=dClQVOnM1MYAAAAA:SHeyBmSPXqSvR1vpjnoGpqeCYZZh1949X7d2fpTEfr-EOq2uzymj8podi5uCrm_jaj4CN_2h) (Applied Energy, 2019)
 * {2022-08-09} [A Review of Lithium-Ion Battery Thermal Runaway Modeling and Diagnosis Approaches](https://www.mdpi.com/2227-9717/10/6/1192) (Journal of Processes, 2022)
 * {2022-08-08} [Initiation of Thermal Runaway in Lithium-Ion Cells by Inductive Heating](https://www.sciencedirect.com/science/article/pii/S0378775320302172) (Journal of Power Sources 454, 2020)
