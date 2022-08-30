@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Battery Management System for Electric Vehicles
+* {2022-08-29} [Testing Advanced Driver Assistance Systems Using Multi-Objective Search and Neural Networks](https://dl.acm.org/doi/abs/10.1145/2970276.2970311) (ACM ASE, 2016)
 * {2022-08-28} [Interpretable Safety Validation for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9294490) (ITSC, 2020)
 * {2022-08-21} [Rapid Failure Mode Classification and Quantification in Batteries: A Deep Learning Modeling Framework](https://www.sciencedirect.com/science/article/pii/S2405829721003275?casa_token=UgPie2X5iN0AAAAA:JPdPg1XneK_7hx4LB5VZw0-CXaQ1DfgtT4ieKM2mvZo8PYIjM1Kre9sYDEPOBmj2uOKNVhZbejE) (Energy Storage Materials, 2022)
 * {2022-08-20} [Detecting Electric Vehicle Battery Failure via Dynamic-VAE](https://arxiv.org/abs/2201.12358) (2022)
