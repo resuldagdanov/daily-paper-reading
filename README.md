@@ -4,8 +4,6 @@
 ----------------------------------------
 
 ### Battery Management System for Electric Vehicles
-* {2022-08-29} [Testing Advanced Driver Assistance Systems Using Multi-Objective Search and Neural Networks](https://dl.acm.org/doi/abs/10.1145/2970276.2970311) (ACM ASE, 2016)
-* {2022-08-28} [Interpretable Safety Validation for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9294490) (ITSC, 2020)
 * {2022-08-21} [Rapid Failure Mode Classification and Quantification in Batteries: A Deep Learning Modeling Framework](https://www.sciencedirect.com/science/article/pii/S2405829721003275?casa_token=UgPie2X5iN0AAAAA:JPdPg1XneK_7hx4LB5VZw0-CXaQ1DfgtT4ieKM2mvZo8PYIjM1Kre9sYDEPOBmj2uOKNVhZbejE) (Energy Storage Materials, 2022)
 * {2022-08-20} [Detecting Electric Vehicle Battery Failure via Dynamic-VAE](https://arxiv.org/abs/2201.12358) (2022)
 * {2022-08-19} [Machine Learning-Based Data-Driven Fault Detection/Diagnosis of Lithium-Ion Battery: A Critical Review](https://www.mdpi.com/2079-9292/10/11/1309) (Journal of Electronics, 2021)
@@ -71,6 +69,9 @@
 * {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 
 ### BlackBox Validation
+* {2022-08-30} [DeepTest: Automated Testing of Deep-Neural-Network-Driven Autonomous Cars](https://dl.acm.org/doi/abs/10.1145/3180155.3180220) (ICSE, 2018)
+* {2022-08-29} [Testing Advanced Driver Assistance Systems Using Multi-Objective Search and Neural Networks](https://dl.acm.org/doi/abs/10.1145/2970276.2970311) (ACM ASE, 2016)
+* {2022-08-28} [Interpretable Safety Validation for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9294490) (ITSC, 2020)
 * {2022-08-17} [Safe Reinforcement Learning Using Black-Box Reachability Analysis](https://arxiv.org/abs/2204.07417) (2022)
 * {2022-08-16} [Building Safer Autonomous Agents by Leveraging Risky Driving Behavior Knowledge](https://ieeexplore.ieee.org/abstract/document/9583209?casa_token=WPZJafwseE8AAAAA:uRtUzpB-qqw5cGmvDbE5AOGc0aVN68afIrJ65yQ1GxgwJG_ogCoqj9cTqfgDNIuXxoIeR_rSiCc) (CCCI, 2021)
 * {2022-07-28} [Adaptive Stress Testing with Reward Augmentation for Autonomous Vehicle Validation](https://ieeexplore.ieee.org/abstract/document/8917242) (ITSC, 2019)
