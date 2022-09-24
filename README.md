@@ -3,6 +3,36 @@
 
 ----------------------------------------
 
+## Content Topics
+
+&#8594; [Black-Box Validation for Self-Driving](#black-box-validation-for-self-driving)
+
+&#8594; [Battery Management System for Electric Vehicles](#battery-management-system-for-electric-vehicles)
+
+&#8594; [Graph Based Reinforcement Learning](#graph-based-reinforcement-learning)
+
+&#8594; [Efficient Data Sampling](#efficient-data-sampling)
+
+&#8594; [Imitation Learning in Autonomous Driving](#imitation-learning-in-autonomous-driving)
+
+&#8594; [Offline Reinforcement Learning](#offline-reinforcement-learning)
+
+&#8594; [Knowledge & Dataset Distillation](#knowledge-&-dataset-distillation)
+
+&#8594; [CARLA Autonomous Driving Challenge](#carla-autonomous-driving-challenge)
+
+&#8594; [Deep Reinforcement Learning in Autonomous Driving](#deep-reinforcement-learning-in-autonomous-driving)
+
+&#8594; [Multi-Agent Learning](#multi-agent-learning)
+
+&#8594; [Curriculum Learning](#curriculum-learning)
+
+&#8594; [Evolutionary Training](#evolutionary-training)
+
+&#8594; [Population Based Training](#population-based-training)
+
+----------------------------------------
+
 ### Black-Box Validation for Self-Driving
 * {2022-09-24} [I Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames](https://ieeexplore.ieee.org/abstract/document/9812041) (ICRA, 2022)
 * {2022-09-23} [Training Adversarial Agents to Exploit Weaknesses in Deep Control Policies](https://ieeexplore.ieee.org/abstract/document/9197351) (ICRA, 2020)
@@ -55,7 +85,7 @@
 * {2022-03-22} [Search on the Replay Buffer: Bridging Planning and Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/5c48ff18e0a47baaf81d8b8ea51eec92-Paper.pdf) (NeurIPS, 2019)
 * {2022-03-10} [Sparse Graphical Memory for Robust Planning](https://arxiv.org/pdf/2003.06417.pdf) (NeurIPS, 2020)
 
-### Data Sampling
+### Efficient Data Sampling
 * {2022-07-08} [Making Efficient Use of Demonstrations to Solve Hard Exploration Problems](https://www.deepmind.com/publications/making-efficient-use-of-demonstrations-to-solve-hard-exploration-problems) (ICLR, 2019)
 * {2022-04-29} [Active Mini-Batch Sampling Using Repulsive Point Processes](https://ojs.aaai.org/index.php/AAAI/article/view/4520) (AAAI, 2019)
 * {2022-04-28} [Rank Degree: An Efficient Algorithm for Graph Sampling](https://ieeexplore.ieee.org/abstract/document/7752223) (ASONAM, 2016)
@@ -100,7 +130,8 @@
 * {2022-03-14} [Knowledge distillation in deep learning and its applications](https://peerj.com/articles/cs-474.pdf) (PeerJ Computer Science, 2021)
 * {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 
-### Carla Challenge
+### Carla Autonomous Driving Challenge
+* {2022-09-25} [Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer](https://paperswithcode.com/paper/safety-enhanced-autonomous-driving-using-1) (CVPR, 2022)
 * {2022-07-10} [End-to-End Urban Driving by Imitating a Reinforcement Learning Coach](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_End-to-End_Urban_Driving_by_Imitating_a_Reinforcement_Learning_Coach_ICCV_2021_paper.html) (ICCV, 2021)
 * {2022-07-03} [Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline](https://arxiv.org/abs/2206.08129) (2022)
 * {2022-07-02} [Learning from All Vehicles](https://arxiv.org/abs/2203.11934) (CVPR, 2022)
@@ -162,7 +193,7 @@
 * {2022-01-07} [Competitive Evolution Multi-Agent Deep Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3331453.3360975) (ACM, 2019)
 * {2022-01-06} [Collaborative Evolutionary Reinforcement Learning](http://proceedings.mlr.press/v97/khadka19a/khadka19a.pdf) (PMLR, 2019)
 
-### Population Training
+### Population Based Training
 * {2022-01-05} [Population Based Training of Neural Networks](https://arxiv.org/pdf/1711.09846.pdf?source=post_page---------------------------) (2017)
 * {2022-01-04} [Two-Stage Population Based Training Method for Deep Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3318265.3318294) (ACM, 2019)
 * {2022-01-03} [Human-level performance in 3D multiplayer games with population-based reinforcement learning](https://arxiv.org/pdf/1807.01281&hl=en&sa=X&d=15122523080710664267&scisig=AAGBfm3w_xBhB1LUjM_5wJ--G5MJuW5YSQ&nossl=1&oi=scholaralrt) (Science, 2019)
