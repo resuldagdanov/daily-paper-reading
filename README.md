@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Black-Box Validation for Self-Driving
+* {2022-09-20} [Analysis of Adaptive Multilevel Splitting Algorithms in an Idealized Case*](https://www.esaim-ps.org/articles/ps/abs/2015/01/ps140029/ps140029.html) (ESAIM: Probability and Statistics, 2015)
 * {2022-09-19} [Generating Adversarial Driving Scenarios in High-Fidelity Simulators](https://ieeexplore.ieee.org/abstract/document/8793740) (ICRA, 2019)
 * {2022-09-18} [SAINT-ACC: Safety-Aware Intelligent Adaptive Cruise Control for Autonomous Vehicles Using Deep Reinforcement Learning](http://proceedings.mlr.press/v139/das21a.html) (PMLR, 2021)
 * {2022-09-17} [AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_AdvSim_Generating_Safety-Critical_Scenarios_for_Self-Driving_Vehicles_CVPR_2021_paper.html) (CVPR, 2021)
