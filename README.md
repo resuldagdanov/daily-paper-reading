@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Black-Box Validation for Self-Driving
+* {2022-09-19} [Generating Adversarial Driving Scenarios in High-Fidelity Simulators](https://ieeexplore.ieee.org/abstract/document/8793740) (ICRA, 2019)
 * {2022-09-18} [SAINT-ACC: Safety-Aware Intelligent Adaptive Cruise Control for Autonomous Vehicles Using Deep Reinforcement Learning](http://proceedings.mlr.press/v139/das21a.html) (PMLR, 2021)
 * {2022-09-17} [AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_AdvSim_Generating_Safety-Critical_Scenarios_for_Self-Driving_Vehicles_CVPR_2021_paper.html) (CVPR, 2021)
 * {2022-08-30} [DeepTest: Automated Testing of Deep-Neural-Network-Driven Autonomous Cars](https://dl.acm.org/doi/abs/10.1145/3180155.3180220) (ICSE, 2018)
