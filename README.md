@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Black-Box Validation for Self-Driving
+* {2022-09-24} [I Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames](https://ieeexplore.ieee.org/abstract/document/9812041) (ICRA, 2022)
 * {2022-09-23} [Training Adversarial Agents to Exploit Weaknesses in Deep Control Policies](https://ieeexplore.ieee.org/abstract/document/9197351) (ICRA, 2020)
 * {2022-09-22} [Prediction-Based Reachability for Collision Avoidance in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9560790) (ICRA, 2021)
 * {2022-09-21} [Adaptive Failure Search Using Critical States from Domain Experts](https://ieeexplore.ieee.org/abstract/document/9561477) (ICRA, 2021)
