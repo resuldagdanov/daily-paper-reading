@@ -3,6 +3,30 @@
 
 ----------------------------------------
 
+### BlackBox Validation
+* {2022-08-30} [DeepTest: Automated Testing of Deep-Neural-Network-Driven Autonomous Cars](https://dl.acm.org/doi/abs/10.1145/3180155.3180220) (ICSE, 2018)
+* {2022-08-29} [Testing Advanced Driver Assistance Systems Using Multi-Objective Search and Neural Networks](https://dl.acm.org/doi/abs/10.1145/2970276.2970311) (ACM ASE, 2016)
+* {2022-08-28} [Interpretable Safety Validation for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9294490) (ITSC, 2020)
+* {2022-08-17} [Safe Reinforcement Learning Using Black-Box Reachability Analysis](https://arxiv.org/abs/2204.07417) (2022)
+* {2022-08-16} [Building Safer Autonomous Agents by Leveraging Risky Driving Behavior Knowledge](https://ieeexplore.ieee.org/abstract/document/9583209?casa_token=WPZJafwseE8AAAAA:uRtUzpB-qqw5cGmvDbE5AOGc0aVN68afIrJ65yQ1GxgwJG_ogCoqj9cTqfgDNIuXxoIeR_rSiCc) (CCCI, 2021)
+* {2022-07-28} [Adaptive Stress Testing with Reward Augmentation for Autonomous Vehicle Validation](https://ieeexplore.ieee.org/abstract/document/8917242) (ITSC, 2019)
+* {2022-07-14} [Adaptive Stress Testing for Autonomous Vehicles](https://ieeexplore.ieee.org/document/8500400) (IV, 2018)
+* {2022-07-13} [Survey on Scenario-Based Safety Assessment of Automated Vehicles](https://ieeexplore.ieee.org/abstract/document/9090897) (IEEE Access, 2020)
+* {2022-07-09} [Adaptive Importance Sampling with Automatic Model Selection in Value Function Approximation](https://www.aaai.org/Papers/AAAI/2008/AAAI08-214.pdf) (AAAI, 2008)
+* {2022-03-06} [A Step Towards Efficient Evaluation of Complex Perception Tasks in Simulation](https://arxiv.org/pdf/2110.02739.pdf) (NeurIPS, 2021)
+* {2022-03-05} [AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems](https://ieeexplore.ieee.org/abstract/document/9251068) (ISSRE, 2020)
+* {2022-03-04} [Improved cross entropy-based importance sampling with a flexible mixture model](https://www.sciencedirect.com/science/article/pii/S0951832019301528) (Reliability Engineering and System Safety, 2019)
+* {2022-03-03} [Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation](https://proceedings.neurips.cc/paper/2018/file/653c579e3f9ba5c03f2f2f8cf4512b39-Paper.pdf) (NeurIPS, 2018)
+* {2022-03-02} [Importance Sampling in Rare Event Simulation](https://www.researchgate.net/profile/Pierre-Lecuyer/publication/228045852_Rare_Event_Simulation_using_Monte_Carlo_Methods/links/5996fbf1aca2725e744efbfd/Rare-Event-Simulation-using-Monte-Carlo-Methods.pdf) (2009)
+* {2022-03-01} [Generalized Cross-entropy Methods with Applications to Rare-event Simulation and Optimization](https://journals.sagepub.com/doi/pdf/10.1177/0037549707087067) (Simulation, 2007)
+* {2022-02-28} [Detecting Safety Problems of Multi-Sensor Fusion in Autonomous Driving](https://arxiv.org/pdf/2109.06404.pdf) (CoRR, 2021)
+* {2022-02-27} [Efficient Black-box Assessment of Autonomous Vehicle Safety](https://arxiv.org/pdf/1912.03618.pdf) (CoRR, 2019)
+* {2022-02-26} [Neural Bridge Sampling for Evaluating Safety-Critical Autonomous Systems](https://proceedings.neurips.cc/paper/2020/file/475d66314dc56a0df8fb8f7c5dbbaf78-Paper.pdf) (NeurIPS, 2020)
+* {2022-02-25} [Cross entropy-based importance sampling using Gaussian densities revisited](https://www.sciencedirect.com/science/article/pii/S0167473017303429) (Structural Safety, 2019)
+* {2022-02-24} [Adaptive Multilevel Splitting for Rare Event Analysis](https://www.tandfonline.com/doi/pdf/10.1080/07362990601139628) (Stochastic Analysis and Applications, 2007)
+* {2022-02-23} [Testing advanced driver assistance systems using multi-objective search and neural networks](https://dl.acm.org/doi/pdf/10.1145/2970276.2970311) (ACM, 2016)
+* {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
+
 ### Battery Management System for Electric Vehicles
 * {2022-08-21} [Rapid Failure Mode Classification and Quantification in Batteries: A Deep Learning Modeling Framework](https://www.sciencedirect.com/science/article/pii/S2405829721003275?casa_token=UgPie2X5iN0AAAAA:JPdPg1XneK_7hx4LB5VZw0-CXaQ1DfgtT4ieKM2mvZo8PYIjM1Kre9sYDEPOBmj2uOKNVhZbejE) (Energy Storage Materials, 2022)
 * {2022-08-20} [Detecting Electric Vehicle Battery Failure via Dynamic-VAE](https://arxiv.org/abs/2201.12358) (2022)
@@ -68,30 +92,6 @@
 * {2022-03-14} [Knowledge distillation in deep learning and its applications](https://peerj.com/articles/cs-474.pdf) (PeerJ Computer Science, 2021)
 * {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 
-### BlackBox Validation
-* {2022-08-30} [DeepTest: Automated Testing of Deep-Neural-Network-Driven Autonomous Cars](https://dl.acm.org/doi/abs/10.1145/3180155.3180220) (ICSE, 2018)
-* {2022-08-29} [Testing Advanced Driver Assistance Systems Using Multi-Objective Search and Neural Networks](https://dl.acm.org/doi/abs/10.1145/2970276.2970311) (ACM ASE, 2016)
-* {2022-08-28} [Interpretable Safety Validation for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9294490) (ITSC, 2020)
-* {2022-08-17} [Safe Reinforcement Learning Using Black-Box Reachability Analysis](https://arxiv.org/abs/2204.07417) (2022)
-* {2022-08-16} [Building Safer Autonomous Agents by Leveraging Risky Driving Behavior Knowledge](https://ieeexplore.ieee.org/abstract/document/9583209?casa_token=WPZJafwseE8AAAAA:uRtUzpB-qqw5cGmvDbE5AOGc0aVN68afIrJ65yQ1GxgwJG_ogCoqj9cTqfgDNIuXxoIeR_rSiCc) (CCCI, 2021)
-* {2022-07-28} [Adaptive Stress Testing with Reward Augmentation for Autonomous Vehicle Validation](https://ieeexplore.ieee.org/abstract/document/8917242) (ITSC, 2019)
-* {2022-07-14} [Adaptive Stress Testing for Autonomous Vehicles](https://ieeexplore.ieee.org/document/8500400) (IV, 2018)
-* {2022-07-13} [Survey on Scenario-Based Safety Assessment of Automated Vehicles](https://ieeexplore.ieee.org/abstract/document/9090897) (IEEE Access, 2020)
-* {2022-07-09} [Adaptive Importance Sampling with Automatic Model Selection in Value Function Approximation](https://www.aaai.org/Papers/AAAI/2008/AAAI08-214.pdf) (AAAI, 2008)
-* {2022-03-06} [A Step Towards Efficient Evaluation of Complex Perception Tasks in Simulation](https://arxiv.org/pdf/2110.02739.pdf) (NeurIPS, 2021)
-* {2022-03-05} [AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems](https://ieeexplore.ieee.org/abstract/document/9251068) (ISSRE, 2020)
-* {2022-03-04} [Improved cross entropy-based importance sampling with a flexible mixture model](https://www.sciencedirect.com/science/article/pii/S0951832019301528) (Reliability Engineering and System Safety, 2019)
-* {2022-03-03} [Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation](https://proceedings.neurips.cc/paper/2018/file/653c579e3f9ba5c03f2f2f8cf4512b39-Paper.pdf) (NeurIPS, 2018)
-* {2022-03-02} [Importance Sampling in Rare Event Simulation](https://www.researchgate.net/profile/Pierre-Lecuyer/publication/228045852_Rare_Event_Simulation_using_Monte_Carlo_Methods/links/5996fbf1aca2725e744efbfd/Rare-Event-Simulation-using-Monte-Carlo-Methods.pdf) (2009)
-* {2022-03-01} [Generalized Cross-entropy Methods with Applications to Rare-event Simulation and Optimization](https://journals.sagepub.com/doi/pdf/10.1177/0037549707087067) (Simulation, 2007)
-* {2022-02-28} [Detecting Safety Problems of Multi-Sensor Fusion in Autonomous Driving](https://arxiv.org/pdf/2109.06404.pdf) (CoRR, 2021)
-* {2022-02-27} [Efficient Black-box Assessment of Autonomous Vehicle Safety](https://arxiv.org/pdf/1912.03618.pdf) (CoRR, 2019)
-* {2022-02-26} [Neural Bridge Sampling for Evaluating Safety-Critical Autonomous Systems](https://proceedings.neurips.cc/paper/2020/file/475d66314dc56a0df8fb8f7c5dbbaf78-Paper.pdf) (NeurIPS, 2020)
-* {2022-02-25} [Cross entropy-based importance sampling using Gaussian densities revisited](https://www.sciencedirect.com/science/article/pii/S0167473017303429) (Structural Safety, 2019)
-* {2022-02-24} [Adaptive Multilevel Splitting for Rare Event Analysis](https://www.tandfonline.com/doi/pdf/10.1080/07362990601139628) (Stochastic Analysis and Applications, 2007)
-* {2022-02-23} [Testing advanced driver assistance systems using multi-objective search and neural networks](https://dl.acm.org/doi/pdf/10.1145/2970276.2970311) (ACM, 2016)
-* {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
-
 ### Carla Challenge
 * {2022-07-10} [End-to-End Urban Driving by Imitating a Reinforcement Learning Coach](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_End-to-End_Urban_Driving_by_Imitating_a_Reinforcement_Learning_Coach_ICCV_2021_paper.html) (ICCV, 2021)
 * {2022-07-03} [Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline](https://arxiv.org/abs/2206.08129) (2022)
@@ -115,6 +115,9 @@
 * {2022-02-06} [Deep Q-learning From Demonstrations](https://ojs.aaai.org/index.php/AAAI/article/view/11757) (AAAI, 2018)
 * {2022-02-05} [Exploring the Limitations of Behavior Cloning for Autonomous Driving](https://openaccess.thecvf.com/content_ICCV_2019/papers/Codevilla_Exploring_the_Limitations_of_Behavior_Cloning_for_Autonomous_Driving_ICCV_2019_paper.pdf) (ICCV, 2019)
 * {2022-02-04} [A reduction of imitation learning and structured prediction to no-regret online learning](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf) (JMLR, 2011)
+
+### Deep Reinforcement Learning in Autonomous Driving
+* {2022-09-16} [Automated Lane Change Decision Making using Deep Reinforcement Learning in Dynamic and Uncertain Highway Environment](https://ieeexplore.ieee.org/abstract/document/8917192) (ITSC, 2019)
 
 ### Multi-Agent Learning
 * {2022-02-03} [Deep Reinforcement Learning for Multiagent Systems: A Review of Challenges, Solutions, and Applications](https://ieeexplore.ieee.org/abstract/document/9043893) (ITC, 2020)
