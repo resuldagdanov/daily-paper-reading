@@ -4,6 +4,7 @@
 ----------------------------------------
 
 ### Black-Box Validation for Self-Driving
+* {2022-09-22} [Prediction-Based Reachability for Collision Avoidance in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9560790) (ICRA, 2021)
 * {2022-09-21} [Adaptive Failure Search Using Critical States from Domain Experts](https://ieeexplore.ieee.org/abstract/document/9561477) (ICRA, 2021)
 * {2022-09-20} [Analysis of Adaptive Multilevel Splitting Algorithms in an Idealized Case*](https://www.esaim-ps.org/articles/ps/abs/2015/01/ps140029/ps140029.html) (ESAIM: Probability and Statistics, 2015)
 * {2022-09-19} [Generating Adversarial Driving Scenarios in High-Fidelity Simulators](https://ieeexplore.ieee.org/abstract/document/8793740) (ICRA, 2019)
