@@ -5,11 +5,13 @@
 
 ## Content Topics
 
+&#8594; [Driving Scenario Identification-Classification](#driving-scenario-identification-classification)
+
 &#8594; [Black-Box Validation for Self-Driving](#black-box-validation-for-self-driving)
 
 &#8594; [Battery Management System for Electric Vehicles](#battery-management-system-for-electric-vehicles)
 
-&#8594; [Graph Based Reinforcement Learning](#graph-based-reinforcement-learning)
+&#8594; [Graph-Based Reinforcement Learning](#graph-based-reinforcement-learning)
 
 &#8594; [Efficient Data Sampling](#efficient-data-sampling)
 
@@ -17,7 +19,7 @@
 
 &#8594; [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
-&#8594; [Knowledge & Dataset Distillation](#knowledge-&-dataset-distillation)
+&#8594; [Knowledge & Dataset Distillation](#knowledge-and-dataset-distillation)
 
 &#8594; [CARLA Autonomous Driving Challenge](#carla-autonomous-driving-challenge)
 
@@ -32,6 +34,9 @@
 &#8594; [Population Based Training](#population-based-training)
 
 ----------------------------------------
+
+### Driving Scenario Identification-Classification
+* {2022-09-30} [Decision-Oriented Driving Scenario Recognition Based on Unsupervised Learning](https://ascelibrary.org/doi/abs/10.1061/9780784483565.055) (CICTP, 2021)
 
 ### Black-Box Validation for Self-Driving
 * {2022-09-24} [I Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames](https://ieeexplore.ieee.org/abstract/document/9812041) (ICRA, 2022)
@@ -74,7 +79,7 @@
 * {2022-08-08} [Initiation of Thermal Runaway in Lithium-Ion Cells by Inductive Heating](https://www.sciencedirect.com/science/article/pii/S0378775320302172) (Journal of Power Sources 454, 2020)
 * {2022-08-07} [Overview of Batteries and Battery Management for Electric Vehicles](https://www.sciencedirect.com/science/article/pii/S2352484722005716) (Energy Reports 8, 2022)
 
-### Graph Based Reinforcement Learning
+### Graph-Based Reinforcement Learning
 * {2022-05-06} [Reinforcement Learning and Graph Embedding for Binary Truss Topology Optimization Under Stress and Displacement Constraints](https://www.frontiersin.org/articles/10.3389/fbuil.2020.00059/full) (Frontiers Built Environ, 2020)
 * {2022-05-05} [Sample-Efficient Deep Reinforcement Learning with Directed Associative Graph](https://ieeexplore.ieee.org/abstract/document/9459568) (China Communications, 2021)
 * {2022-05-04} [Topological Experience Replay](https://arxiv.org/pdf/2203.15845.pdf) (ICLR, 2022)
