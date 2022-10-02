@@ -36,6 +36,7 @@
 ----------------------------------------
 
 ### Driving Scenario Identification-Classification
+* {2022-10-01} [A General Autonomous Driving Planner Adaptive to Scenario Characteristics](https://ieeexplore.ieee.org/abstract/document/9819857) (ITSS, 2022)
 * {2022-09-30} [Decision-Oriented Driving Scenario Recognition Based on Unsupervised Learning](https://ascelibrary.org/doi/abs/10.1061/9780784483565.055) (CICTP, 2021)
 
 ### Black-Box Validation for Self-Driving
