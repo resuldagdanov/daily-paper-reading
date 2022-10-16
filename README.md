@@ -72,6 +72,7 @@
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
 ### Battery Management System for Electric Vehicles
+* {2022-10-14} [Genetic Optimization and Experimental Validation of a Test Cycle that Maximizes Parameter Identifiability for a Li-Ion Equivalent-Circuit Battery Model](https://www.sciencedirect.com/science/article/pii/S2352152X15300232) (Journal of Energy Storage, 2015)
 * {2022-10-13} [Impact of Data Sampling Methods on the Performance of Data-driven Parameter Identification for Lithium ion Batteries](https://www.sciencedirect.com/science/article/pii/S2405896321022710) (IFAC, 2021)
 * {2022-10-12} [Design of Experiments Applied to Lithium-Ion Batteries: A Literature Review](https://www.sciencedirect.com/science/article/pii/S0306261922006596) (Journal of Applied Energy, 2022)
 * {2022-10-11} [A New Design of Experiment Method for Model Parametrisation of Lithium Ion Battery](https://www.sciencedirect.com/science/article/pii/S2352152X22003280) (Journal of Energy Storage, 2022)
