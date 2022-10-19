@@ -106,6 +106,7 @@
 * {2022-04-22} [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/pdf/2004.02757.pdf) (2020)
 
 ### Imitation Learning in Autonomous Driving
+* {2022-10-17} [T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/8809901) (ITS, 2020)
 * {2022-07-05} [High-Level Decision Making for Automated Highway Driving via Behavior Cloning](https://ieeexplore.ieee.org/abstract/document/9761743) (IV, 2022)
 * {2022-07-04} [Learning a Decision Module by Imitating Driver's Control Behaviors](https://arxiv.org/abs/1912.00191) (CoRL, 2020)
 * {2022-04-27} [Safe and Computational Efficient Imitation Learning for Autonomous Vehicle Driving](https://ieeexplore.ieee.org/abstract/document/9147256) (ACC, 2020)
