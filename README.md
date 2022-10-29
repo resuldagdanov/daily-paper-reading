@@ -144,6 +144,7 @@
 * {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
 
 ### Carla Autonomous Driving Challenge
+* {2022-10-29} [PlanT: Explainable Planning Transformers via Object-Level Representations](https://arxiv.org/pdf/2210.14222.pdf) (CoRL, 2022)
 * {2022-10-02} [TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://arxiv.org/abs/2205.15997) (PAMI, 2022)
 * {2022-09-25} [Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer](https://paperswithcode.com/paper/safety-enhanced-autonomous-driving-using-1) (CVPR, 2022)
 * {2022-07-10} [End-to-End Urban Driving by Imitating a Reinforcement Learning Coach](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_End-to-End_Urban_Driving_by_Imitating_a_Reinforcement_Learning_Coach_ICCV_2021_paper.html) (ICCV, 2021)
