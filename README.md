@@ -72,6 +72,7 @@
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
 ### Battery Management System for Electric Vehicles
+* {2022-11-06} [Smart EV Charging Profiles to Extend Battery Life](https://ieeexplore.ieee.org/abstract/document/8231961) (UPEC, 2017)
 * {2022-11-05} [Accounting for Lithium-Ion Battery Degradation in Electric Vehicle Charging Optimization](https://ieeexplore.ieee.org/abstract/document/6784141) (Journal of Emerging and Selected Topics in Power Electronics, 2014)
 * {2022-11-04} [Capacity Fade and Aging Models for Electric Batteries and Optimal Charging Strategy for Electric Vehicles](https://www.sciencedirect.com/science/article/pii/S0360544213006749) (Energy, 2013)
 * {2022-11-03} [Review of Fast Charging Strategies for Lithium-Ion Battery Systems and Their Applicability for Battery Electric Vehicles](https://www.sciencedirect.com/science/article/pii/S2352152X21009981) (Journal of Energy Storage, 2021)
