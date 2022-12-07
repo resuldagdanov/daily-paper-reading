@@ -72,6 +72,7 @@
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
 ### Battery Management System for Electric Vehicles
+* {2022-12-07} [A Holistic Aging Model for Li(NiMnCo)O2 Based 18650 Lithium-Ion Batteries](https://www.sciencedirect.com/science/article/pii/S0378775314001876) (Journal of Power Sources 257, 2014)
 * {2022-11-10} [Electric Vehicle Charge Optimization Including Effects of Lithium-Ion Battery Degradation](https://ieeexplore.ieee.org/abstract/document/6043046) (VPPC, 2011)
 * {2022-11-08} [Designing and Prototyping of Lithium-Ion Charging System Using Multi-Step Constant Current Method](https://www.mdpi.com/2032-6653/13/10/178) (World Electric Vehicle Journal, 2022)
 * {2022-11-07} [Multi-Stage Constant-Current Charging Protocol for a High-Energy-Density Pouch Cell Based on a 622NCM-Graphite System](https://pubs.rsc.org/en/content/articlehtml/2019/ra/c9ra03629f) (RSC, 2019)
