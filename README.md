@@ -40,6 +40,7 @@
 * {2022-09-30} [Decision-Oriented Driving Scenario Recognition Based on Unsupervised Learning](https://ascelibrary.org/doi/abs/10.1061/9780784483565.055) (CICTP, 2021)
 
 ### Black-Box Validation for Self-Driving
+* {2022-12-21} [Trustworthy Safety Improvement for Autonomous Driving Using Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0968090X22000997) (Transportation Research Part C, 2022)
 * {2022-09-24} [I Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames](https://ieeexplore.ieee.org/abstract/document/9812041) (ICRA, 2022)
 * {2022-09-23} [Training Adversarial Agents to Exploit Weaknesses in Deep Control Policies](https://ieeexplore.ieee.org/abstract/document/9197351) (ICRA, 2020)
 * {2022-09-22} [Prediction-Based Reachability for Collision Avoidance in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9560790) (ICRA, 2021)
