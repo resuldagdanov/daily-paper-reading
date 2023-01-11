@@ -73,6 +73,7 @@
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
 ### Battery Management System for Electric Vehicles
+* {2023-01-09} [A Deep Reinforcement Learning Framework for Fast Charging of Li-Ion Batteries](https://ieeexplore.ieee.org/abstract/document/9668843?casa_token=vDqwNWz2pHMAAAAA:W__CJeH28bC-NvC_diqYihpYRHbfXNk9AT6C1dvBCvdOmmGX5ao6RgtnuiZi32ECU0q8A1MOvA) (Transactions on Transportation Electrification, 2022)
 * {2023-01-03} [State of Charge Range](https://patents.google.com/patent/US8536825B2/en) (U.S. Patent, 2013)
 * {2023-01-02} [Towards Long Lifetime Battery: AI-Based Manufacturing and Management](https://ieeexplore.ieee.org/abstract/document/9754333?casa_token=30ghx2bSy-0AAAAA:Z1MLR0mbLa_l5027tNcxZYLtQwir31can2NMJI9M4ojhIXCc1w64vSfScsnI3bJjXy8eO1ah) (Journal of Automatica Sinica, 2022)
 * {2023-01-01} [Electric Vehicle Battery Cycle Aging Evaluation in Real-World Daily Driving and Vehicle-to-Grid Services](https://ieeexplore.ieee.org/abstract/document/8070984?casa_token=_Q_6n8ByZF0AAAAA:aKGj6p1ByJpz7N3fJATj9k7QBkzjP3QB8Z6wRzd5erl4E9tBeBRtH7yQ2IQdLWq_Rdk74rIP) (Transactions on Transportation Electrification, 2018)
