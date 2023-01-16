@@ -73,6 +73,7 @@
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
 ### Battery Management System for Electric Vehicles
+* {2023-01-13} [Optimization of Electric Vehicle Charging for Battery Maintenance and Degradation Management](https://ieeexplore.ieee.org/abstract/document/9108305?casa_token=kxIV5RQilsEAAAAA:DRE3dJdwRhlgWsxdtMJr06zbruK6vr-C2-DD-MkF5-4N4y_fhF8lG9RJu3GGzJcRP8K3kUavd_c) (Transactions on Transportation Electrification, 2020)
 * {2023-01-11} [State of Charge and State of Health Estimation for Lithium Batteries Using Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/7948779?casa_token=8TGMXNNvLRYAAAAA:3t5lPeePr5mV1b2tfSFbBeGHR_UQroCD1IGSj5MrOPc2kf6Pz2MPji8z_fWfAf2Vk5eeqWlXpw) (Transactions on Vehicular Technology, 2017)
 * {2023-01-10} [Optimal Multistage Charging of NCA Graphite Lithium Ion Batteries Based on Electrothermal Aging Dynamics](https://ieeexplore.ieee.org/abstract/document/9018113?casa_token=u9OVpZII_kQAAAAA:dqR93DQpHjD8VfSs0OqmnEehW8Uf-0hjaYzLx_vg6x-vdXpSBiOLZzfsxHQ-CKvcZjh3iF85Bg) (Transactions on Transportation Electrification, 2020)
 * {2023-01-09} [A Deep Reinforcement Learning Framework for Fast Charging of Li-Ion Batteries](https://ieeexplore.ieee.org/abstract/document/9668843?casa_token=vDqwNWz2pHMAAAAA:W__CJeH28bC-NvC_diqYihpYRHbfXNk9AT6C1dvBCvdOmmGX5ao6RgtnuiZi32ECU0q8A1MOvA) (Transactions on Transportation Electrification, 2022)
