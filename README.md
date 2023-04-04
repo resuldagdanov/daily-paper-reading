@@ -36,6 +36,7 @@
 ----------------------------------------
 
 ### Driving Scenario Identification-Classification
+* {2023-03-04} [Expert-LaSTS: Expert-Knowledge Guided Latent Space for Traffic Scenarios](https://ieeexplore.ieee.org/abstract/document/9827187) (IV, 2022)
 * {2022-10-01} [A General Autonomous Driving Planner Adaptive to Scenario Characteristics](https://ieeexplore.ieee.org/abstract/document/9819857) (ITSS, 2022)
 * {2022-09-30} [Decision-Oriented Driving Scenario Recognition Based on Unsupervised Learning](https://ascelibrary.org/doi/abs/10.1061/9780784483565.055) (CICTP, 2021)
 
