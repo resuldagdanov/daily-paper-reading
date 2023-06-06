@@ -74,6 +74,7 @@
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
 ### Battery Management System for Electric Vehicles
+* {2023-06-06} [Cloud-Based Artificial Intelligence Framework for Battery Management System](https://www.mdpi.com/1996-1073/16/11/4403) (Energies, 2023)
 * {2023-01-14} [Battery lifetime of electric vehicles by novel rainflow-counting algorithm with temperature and C-rate dynamics](https://www.sciencedirect.com/science/article/pii/S2352152X22024471?casa_token=CbUiruEd63cAAAAA:6VtJSOX7ETZHnCInGZTxGJJoiN-85BGafSdAdIV6Z7uSlmQ-Tx7xz_LBJCX4HwNnv9ItbtR-_dc) (Journal of Energy Storage, 2023)
 * {2023-01-13} [Optimization of Electric Vehicle Charging for Battery Maintenance and Degradation Management](https://ieeexplore.ieee.org/abstract/document/9108305?casa_token=kxIV5RQilsEAAAAA:DRE3dJdwRhlgWsxdtMJr06zbruK6vr-C2-DD-MkF5-4N4y_fhF8lG9RJu3GGzJcRP8K3kUavd_c) (Transactions on Transportation Electrification, 2020)
 * {2023-01-11} [State of Charge and State of Health Estimation for Lithium Batteries Using Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/7948779?casa_token=8TGMXNNvLRYAAAAA:3t5lPeePr5mV1b2tfSFbBeGHR_UQroCD1IGSj5MrOPc2kf6Pz2MPji8z_fWfAf2Vk5eeqWlXpw) (Transactions on Vehicular Technology, 2017)
