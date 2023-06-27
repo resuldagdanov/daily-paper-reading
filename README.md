@@ -5,6 +5,8 @@
 
 ## Content Topics
 
+&#8594; [Human-Robot Collaboration](#human-robot-collaboration)
+
 &#8594; [Driving Scenario Identification-Classification](#driving-scenario-identification-classification)
 
 &#8594; [Black-Box Validation for Self-Driving](#black-box-validation-for-self-driving)
@@ -34,6 +36,9 @@
 &#8594; [Population Based Training](#population-based-training)
 
 ----------------------------------------
+
+### Human-Robot Collaboration
+* {2023-06-27} [Planning with Trust for Human-Robot Collaboration](https://dl.acm.org/doi/abs/10.1145/3171221.3171264) (HRI, 2018)
 
 ### Driving Scenario Identification-Classification
 * {2023-03-04} [Expert-LaSTS: Expert-Knowledge Guided Latent Space for Traffic Scenarios](https://ieeexplore.ieee.org/abstract/document/9827187) (IV, 2022)
