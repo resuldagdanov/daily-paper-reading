@@ -38,6 +38,7 @@
 ----------------------------------------
 
 ### Human-Robot Collaboration
+* {2023-06-28} [Studying Human Robot Interaction and Its Characteristics](https://journals.gaftim.com/index.php/ijcim/article/view/73) (IJSR, 2022)
 * {2023-06-27} [Planning with Trust for Human-Robot Collaboration](https://dl.acm.org/doi/abs/10.1145/3171221.3171264) (HRI, 2018)
 
 ### Driving Scenario Identification-Classification
