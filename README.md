@@ -38,6 +38,7 @@
 ----------------------------------------
 
 ### Human-Robot Collaboration
+* {2023-06-29} [Human Modeling for Human–Robot Collaboration](https://journals.sagepub.com/doi/full/10.1177/0278364917690592) (IJRR, 2017)
 * {2023-06-28} [Studying Human Robot Interaction and Its Characteristics](https://journals.gaftim.com/index.php/ijcim/article/view/73) (IJSR, 2022)
 * {2023-06-27} [Planning with Trust for Human-Robot Collaboration](https://dl.acm.org/doi/abs/10.1145/3171221.3171264) (HRI, 2018)
 
