@@ -7,6 +7,8 @@
 
 &#8594; [Human-Autonomy Teaming](#human-autonomy-teaming)
 
+&#8594; [Human-Robot Collaboration](#human-robot-collaboration)
+
 &#8594; [Driving Scenario Identification-Classification](#driving-scenario-identification-classification)
 
 &#8594; [Black-Box Validation for Self-Driving](#black-box-validation-for-self-driving)
@@ -39,6 +41,11 @@
 
 ### Human-Autonomy Teaming
 * {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
+
+### Human-Robot Collaboration
+* {2023-06-29} [Human Modeling for Human–Robot Collaboration](https://journals.sagepub.com/doi/full/10.1177/0278364917690592) (IJRR, 2017)
+* {2023-06-28} [Studying Human Robot Interaction and Its Characteristics](https://journals.gaftim.com/index.php/ijcim/article/view/73) (IJSR, 2022)
+* {2023-06-27} [Planning with Trust for Human-Robot Collaboration](https://dl.acm.org/doi/abs/10.1145/3171221.3171264) (HRI, 2018)
 
 ### Driving Scenario Identification-Classification
 * {2023-03-04} [Expert-LaSTS: Expert-Knowledge Guided Latent Space for Traffic Scenarios](https://ieeexplore.ieee.org/abstract/document/9827187) (IV, 2022)
