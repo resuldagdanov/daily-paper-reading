@@ -5,6 +5,8 @@
 
 ## Content Topics
 
+&#8594; [Human-Autonomy Teaming](#human-autonomy-teaming)
+
 &#8594; [Driving Scenario Identification-Classification](#driving-scenario-identification-classification)
 
 &#8594; [Black-Box Validation for Self-Driving](#black-box-validation-for-self-driving)
@@ -34,6 +36,9 @@
 &#8594; [Population Based Training](#population-based-training)
 
 ----------------------------------------
+
+### Human-Autonomy Teaming
+* {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
 
 ### Driving Scenario Identification-Classification
 * {2023-03-04} [Expert-LaSTS: Expert-Knowledge Guided Latent Space for Traffic Scenarios](https://ieeexplore.ieee.org/abstract/document/9827187) (IV, 2022)
