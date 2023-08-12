@@ -40,6 +40,7 @@
 ----------------------------------------
 
 ### Human-Autonomy Teaming
+* {2023-08-12} [Human–Autonomy Teaming: Definitions, Debates, and Directions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.589585/full) (Frontiers, 2021)
 * {2023-08-11} [Human–Autonomy Teaming: A Review and Analysis of the Empirical Literature](https://journals.sagepub.com/doi/full/10.1177/0018720820960865) (HFES, 2020)
 * {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
 
