@@ -40,6 +40,7 @@
 ----------------------------------------
 
 ### Human-Autonomy Teaming
+* {2023-08-14} [Assessing Communication and Trust in an AI Teammate in a Dynamic Task Environment](https://ieeexplore.ieee.org/abstract/document/9582626) (ICHMS, 2021)
 * {2023-08-13} [Human-Automation Teaming: Lessons Learned and Future Directions](https://link.springer.com/chapter/10.1007/978-3-319-92046-7_40) (HIMI, 2018)
 * {2023-08-12} [Human–Autonomy Teaming: Definitions, Debates, and Directions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.589585/full) (Frontiers, 2021)
 * {2023-08-11} [Human–Autonomy Teaming: A Review and Analysis of the Empirical Literature](https://journals.sagepub.com/doi/full/10.1177/0018720820960865) (HFES, 2020)
