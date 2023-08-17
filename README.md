@@ -40,6 +40,7 @@
 ----------------------------------------
 
 ### Human-Autonomy Teaming
+* {2023-08-15} [Agent Transparency: A Review of Current Theory and Evidence](https://ieeexplore.ieee.org/abstract/document/8982042) (Transactions on Human-Machine Systems, 2020)
 * {2023-08-14} [Assessing Communication and Trust in an AI Teammate in a Dynamic Task Environment](https://ieeexplore.ieee.org/abstract/document/9582626) (ICHMS, 2021)
 * {2023-08-13} [Human-Automation Teaming: Lessons Learned and Future Directions](https://link.springer.com/chapter/10.1007/978-3-319-92046-7_40) (HIMI, 2018)
 * {2023-08-12} [Human–Autonomy Teaming: Definitions, Debates, and Directions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.589585/full) (Frontiers, 2021)
