@@ -40,6 +40,7 @@
 ----------------------------------------
 
 ### Human-Autonomy Teaming
+* {2023-08-17} [Exploration of Teammate Trust and Interaction Dynamics in Human-Autonomy Teaming](https://ieeexplore.ieee.org/abstract/document/9563095) (Transactions on Human-Machine Systems, 2021)
 * {2023-08-16} [Discovering Emerging Applications of Multi-Valued Logic: Protocols for Human-Autonomy Teaming](https://ieeexplore.ieee.org/abstract/document/10153814) (ISMVL, 2023)
 * {2023-08-15} [Agent Transparency: A Review of Current Theory and Evidence](https://ieeexplore.ieee.org/abstract/document/8982042) (Transactions on Human-Machine Systems, 2020)
 * {2023-08-14} [Assessing Communication and Trust in an AI Teammate in a Dynamic Task Environment](https://ieeexplore.ieee.org/abstract/document/9582626) (ICHMS, 2021)
