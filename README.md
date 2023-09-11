@@ -51,6 +51,7 @@
 * {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
 
 ### Human-Robot Collaboration
+* {2023-09-11} [Trust-Aware Decision Making for Human-Robot Collaboration: Model Learning and Planning](https://dl.acm.org/doi/abs/10.1145/3359616) (THRI, 2020)
 * {2023-09-08} [Trust Dynamics and Verbal Assurances in Human Robot Physical Collaboration](https://www.frontiersin.org/articles/10.3389/frai.2021.703504/full) (Frontiers in Artificial Intelligence, 2021)
 * {2023-09-07} [A Hierarchical Human-Robot Interaction-Planning Framework for Task Allocation in Collaborative Industrial Assembly Processes](https://ieeexplore.ieee.org/abstract/document/7421993) (RAL, 2017)
 * {2023-09-06} [Prediction of Human Activity Patterns for Human–Robot Collaborative Assembly Tasks](https://ieeexplore.ieee.org/abstract/document/8542683) (Transactions on Industrial Informatics, 2019)
