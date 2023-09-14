@@ -51,6 +51,7 @@
 * {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
 
 ### Human-Robot Collaboration
+* {2023-09-14} [Maintaining Efficient Collaboration with Trust-Seeking Robots](https://ieeexplore.ieee.org/abstract/document/7759510) (IROS, 2016)
 * {2023-09-13} [Human Modeling in Physical Human-Robot Interaction: A Brief Survey](https://ieeexplore.ieee.org/abstract/document/10185034) (RAL, 2023)
 * {2023-09-12} [Efficient and Trustworthy Social Navigation via Explicit and Implicit Robot-Human Communication](https://ieeexplore.ieee.org/abstract/document/8967120) (Transactions on Robotics, 2020)
 * {2023-09-11} [Trust-Aware Decision Making for Human-Robot Collaboration: Model Learning and Planning](https://dl.acm.org/doi/abs/10.1145/3359616) (THRI, 2020)
