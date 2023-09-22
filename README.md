@@ -40,6 +40,7 @@
 ----------------------------------------
 
 ### Human-Autonomy Teaming
+* {2023-09-22} [Learning Reward Functions from Diverse Sources of Human Feedback: Optimally Integrating Demonstrations and Preferences](https://journals.sagepub.com/doi/full/10.1177/02783649211041652) (IJRR, 2021)
 * {2023-08-24} [Who/What Is My Teammate? Team Composition Considerations in Human-AI Teaming](https://ieeexplore.ieee.org/abstract/document/9474953) (Transactions on Human-Machine Systems, 2021)
 * {2023-08-17} [Exploration of Teammate Trust and Interaction Dynamics in Human-Autonomy Teaming](https://ieeexplore.ieee.org/abstract/document/9563095) (Transactions on Human-Machine Systems, 2021)
 * {2023-08-16} [Discovering Emerging Applications of Multi-Valued Logic: Protocols for Human-Autonomy Teaming](https://ieeexplore.ieee.org/abstract/document/10153814) (ISMVL, 2023)
