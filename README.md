@@ -5,6 +5,8 @@
 
 ## Content Topics
 
+&#8594; [Dynamic Modeling of Trust in Autonomy](#dynamic-modeling-of-trust-in-autonomy)
+
 &#8594; [Human-Autonomy Teaming](#human-autonomy-teaming)
 
 &#8594; [Human-Robot Collaboration](#human-robot-collaboration)
@@ -39,6 +41,12 @@
 
 ----------------------------------------
 
+### Dynamic Modeling of Trust in Autonomy
+* {2023-10-05} [Modeling and Predicting Trust Dynamics in Human-Robot Teaming: A Bayesian Inference Approach](https://link.springer.com/article/10.1007/s12369-020-00703-3) (IJSR, 2020)
+* {2023-10-03} [Reverse Psychology in Trust-Aware Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9382074) (RAL, 2021)
+* {2023-09-08} [Trust Dynamics and Verbal Assurances in Human Robot Physical Collaboration](https://www.frontiersin.org/articles/10.3389/frai.2021.703504/full) (Frontiers in Artificial Intelligence, 2021)
+* {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
+
 ### Human-Autonomy Teaming
 * {2023-09-22} [Learning Reward Functions from Diverse Sources of Human Feedback: Optimally Integrating Demonstrations and Preferences](https://journals.sagepub.com/doi/full/10.1177/02783649211041652) (IJRR, 2021)
 * {2023-08-24} [Who/What Is My Teammate? Team Composition Considerations in Human-AI Teaming](https://ieeexplore.ieee.org/abstract/document/9474953) (Transactions on Human-Machine Systems, 2021)
@@ -49,16 +57,13 @@
 * {2023-08-13} [Human-Automation Teaming: Lessons Learned and Future Directions](https://link.springer.com/chapter/10.1007/978-3-319-92046-7_40) (HIMI, 2018)
 * {2023-08-12} [Human–Autonomy Teaming: Definitions, Debates, and Directions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.589585/full) (Frontiers, 2021)
 * {2023-08-11} [Human–Autonomy Teaming: A Review and Analysis of the Empirical Literature](https://journals.sagepub.com/doi/full/10.1177/0018720820960865) (HFES, 2020)
-* {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
 
 ### Human-Robot Collaboration
-* {2023-10-03} [Reverse Psychology in Trust-Aware Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9382074) (RAL, 2021)
 * {2023-09-20} [Efficient Model Learning from Joint-Action Demonstrations for Human-Robot Collaborative Tasks](https://dl.acm.org/doi/abs/10.1145/2696454.2696455?casa_token=d90XmoHj308AAAAA:DcNU1xf_aij7z6f1P6rNrLRcGKFIXsKWorqVDFSUZsP3F5wvBfGDzoDPL_6VvxKOKYJVucdU03NtFw) (HRI, 2015)
 * {2023-09-14} [Maintaining Efficient Collaboration with Trust-Seeking Robots](https://ieeexplore.ieee.org/abstract/document/7759510) (IROS, 2016)
 * {2023-09-13} [Human Modeling in Physical Human-Robot Interaction: A Brief Survey](https://ieeexplore.ieee.org/abstract/document/10185034) (RAL, 2023)
 * {2023-09-12} [Efficient and Trustworthy Social Navigation via Explicit and Implicit Robot-Human Communication](https://ieeexplore.ieee.org/abstract/document/8967120) (Transactions on Robotics, 2020)
 * {2023-09-11} [Trust-Aware Decision Making for Human-Robot Collaboration: Model Learning and Planning](https://dl.acm.org/doi/abs/10.1145/3359616) (THRI, 2020)
-* {2023-09-08} [Trust Dynamics and Verbal Assurances in Human Robot Physical Collaboration](https://www.frontiersin.org/articles/10.3389/frai.2021.703504/full) (Frontiers in Artificial Intelligence, 2021)
 * {2023-09-07} [A Hierarchical Human-Robot Interaction-Planning Framework for Task Allocation in Collaborative Industrial Assembly Processes](https://ieeexplore.ieee.org/abstract/document/7421993) (RAL, 2017)
 * {2023-09-06} [Prediction of Human Activity Patterns for Human–Robot Collaborative Assembly Tasks](https://ieeexplore.ieee.org/abstract/document/8542683) (Transactions on Industrial Informatics, 2019)
 * {2023-08-25} [What Information Should a Robot Convey?](https://ieeexplore.ieee.org/abstract/document/9635999) (IROS, 2021)
