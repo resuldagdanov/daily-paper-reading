@@ -59,6 +59,7 @@
 * {2023-08-11} [Human–Autonomy Teaming: A Review and Analysis of the Empirical Literature](https://journals.sagepub.com/doi/full/10.1177/0018720820960865) (HFES, 2020)
 
 ### Human-Robot Collaboration
+* {2023-10-09} [Trust-Aware Motion Planning for Human-Robot Collaboration under Distribution Temporal Logic Specifications](https://arxiv.org/abs/2310.01163) (ArXiv, 2023)
 * {2023-09-20} [Efficient Model Learning from Joint-Action Demonstrations for Human-Robot Collaborative Tasks](https://dl.acm.org/doi/abs/10.1145/2696454.2696455?casa_token=d90XmoHj308AAAAA:DcNU1xf_aij7z6f1P6rNrLRcGKFIXsKWorqVDFSUZsP3F5wvBfGDzoDPL_6VvxKOKYJVucdU03NtFw) (HRI, 2015)
 * {2023-09-14} [Maintaining Efficient Collaboration with Trust-Seeking Robots](https://ieeexplore.ieee.org/abstract/document/7759510) (IROS, 2016)
 * {2023-09-13} [Human Modeling in Physical Human-Robot Interaction: A Brief Survey](https://ieeexplore.ieee.org/abstract/document/10185034) (RAL, 2023)
