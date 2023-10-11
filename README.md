@@ -42,6 +42,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2023-10-11} [Multi-Task Trust Transfer for Human-Robot Interaction](https://journals.sagepub.com/doi/full/10.1177/0278364919866905?casa_token=8lbtwkUK6O8AAAAA%3A6VAN4Xh24aThD4igVwGQzl0bLXXf5nGTco0jnQU5FZxb7KZp3yeCrv3YQroLlKZd37Nm0NAX58OzoA) (IJRR, 2020)
 * {2023-10-10} [TIP: A Trust Inference and Propagation Model in Multi-Human Multi-Robot Teams](https://arxiv.org/abs/2301.10928) (HRI, 2023)
 * {2023-10-05} [Modeling and Predicting Trust Dynamics in Human-Robot Teaming: A Bayesian Inference Approach](https://link.springer.com/article/10.1007/s12369-020-00703-3) (IJSR, 2020)
 * {2023-10-03} [Reverse Psychology in Trust-Aware Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9382074) (RAL, 2021)
