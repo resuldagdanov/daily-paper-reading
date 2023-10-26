@@ -42,6 +42,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2023-10-26} [Trust Modeling Based on Probabilistic Linguistic Term Sets and the MULTIMOORA Method](https://www.sciencedirect.com/science/article/pii/S0957417420306291) (Expert Systems With Applications, 2021)
 * {2023-10-25} [Interpersonal Trust Modelling Through Multi-Agent Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S1389041723000918) (Cognitive Systems Research, 2024)
 * {2023-10-23} [Computational Model of Robot Trust in Human Co-Worker for Physical Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9697360) (RAL, 2022)
 * {2023-10-11} [Multi-Task Trust Transfer for Human-Robot Interaction](https://journals.sagepub.com/doi/full/10.1177/0278364919866905) (IJRR, 2020)
