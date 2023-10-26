@@ -53,6 +53,7 @@
 * {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
 
 ### Human-Autonomy Teaming
+* {2023-10-27} [A Meta-Analysis of Factors Influencing the Development of Trust in Automation: Implications for Understanding Autonomy in Future Systems](https://journals.sagepub.com/doi/full/10.1177/0018720816634228) (HFES, 2016)
 * {2023-09-22} [Learning Reward Functions from Diverse Sources of Human Feedback: Optimally Integrating Demonstrations and Preferences](https://journals.sagepub.com/doi/full/10.1177/02783649211041652) (IJRR, 2021)
 * {2023-08-24} [Who/What Is My Teammate? Team Composition Considerations in Human-AI Teaming](https://ieeexplore.ieee.org/abstract/document/9474953) (Transactions on Human-Machine Systems, 2021)
 * {2023-08-17} [Exploration of Teammate Trust and Interaction Dynamics in Human-Autonomy Teaming](https://ieeexplore.ieee.org/abstract/document/9563095) (Transactions on Human-Machine Systems, 2021)
