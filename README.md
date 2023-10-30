@@ -42,6 +42,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2023-10-30} [A Survey on Trust Evaluation Based on Machine Learning](https://dl.acm.org/doi/abs/10.1145/3408292) (ACM Computing Surveys, 2020)
 * {2023-10-26} [Trust Modeling Based on Probabilistic Linguistic Term Sets and the MULTIMOORA Method](https://www.sciencedirect.com/science/article/pii/S0957417420306291) (Expert Systems With Applications, 2021)
 * {2023-10-25} [Interpersonal Trust Modelling Through Multi-Agent Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S1389041723000918) (Cognitive Systems Research, 2024)
 * {2023-10-23} [Computational Model of Robot Trust in Human Co-Worker for Physical Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9697360) (RAL, 2022)
@@ -50,7 +51,7 @@
 * {2023-10-05} [Modeling and Predicting Trust Dynamics in Human-Robot Teaming: A Bayesian Inference Approach](https://link.springer.com/article/10.1007/s12369-020-00703-3) (IJSR, 2020)
 * {2023-10-03} [Reverse Psychology in Trust-Aware Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9382074) (RAL, 2021)
 * {2023-09-08} [Trust Dynamics and Verbal Assurances in Human Robot Physical Collaboration](https://www.frontiersin.org/articles/10.3389/frai.2021.703504/full) (Frontiers in Artificial Intelligence, 2021)
-* {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM, 2022)
+* {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM Transactions on Human-Robot Interaction, 2022)
 
 ### Human-Autonomy Teaming
 * {2023-10-27} [A Meta-Analysis of Factors Influencing the Development of Trust in Automation: Implications for Understanding Autonomy in Future Systems](https://journals.sagepub.com/doi/full/10.1177/0018720816634228) (HFES, 2016)
