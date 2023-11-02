@@ -42,6 +42,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2023-11-03} [OPTIMo: Online Probabilistic Trust Inference Model for Asymmetric Human-Robot Collaborations](https://dl.acm.org/doi/abs/10.1145/2696454.2696492) (HRI, 2015)
 * {2023-10-30} [A Survey on Trust Evaluation Based on Machine Learning](https://dl.acm.org/doi/abs/10.1145/3408292) (ACM Computing Surveys, 2020)
 * {2023-10-26} [Trust Modeling Based on Probabilistic Linguistic Term Sets and the MULTIMOORA Method](https://www.sciencedirect.com/science/article/pii/S0957417420306291) (Expert Systems With Applications, 2021)
 * {2023-10-25} [Interpersonal Trust Modelling Through Multi-Agent Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S1389041723000918) (Cognitive Systems Research, 2024)
