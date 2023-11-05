@@ -42,6 +42,8 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+
+* {2023-11-06} [Bayesian Optimization Based Trust Model for Human Multi-Robot Collaborative Motion Tasks in Offroad Environments](https://link.springer.com/article/10.1007/s12369-023-01011-2) (IJSR, 2023)
 * {2023-11-05} [A Unified Bi-Directional Model for Natural and Artificial Trust in Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9450023) (RAL, 2021)
 * {2023-11-04} [Towards a Theory of Longitudinal Trust Calibration in Human-Robot Teams](https://link.springer.com/article/10.1007/s12369-019-00596-x) (IJRS, 2019)
 * {2023-11-03} [OPTIMo: Online Probabilistic Trust Inference Model for Asymmetric Human-Robot Collaborations](https://dl.acm.org/doi/abs/10.1145/2696454.2696492) (HRI, 2015)
