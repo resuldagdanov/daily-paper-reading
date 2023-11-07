@@ -42,6 +42,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2023-11-08} [Adaptive Trust Model for Multi-Agent Teaming Based on Reinforcement-Learning-Based Fusion](https://ieeexplore.ieee.org/abstract/document/10272285) (TETCI, 2023)
 * {2023-11-07} [Real-Time Trust Prediction in Conditionally Automated Driving Using Physiological Measures](https://ieeexplore.ieee.org/abstract/document/10201385) (ITS, 2023)
 * {2023-11-06} [Bayesian Optimization Based Trust Model for Human Multi-Robot Collaborative Motion Tasks in Offroad Environments](https://link.springer.com/article/10.1007/s12369-023-01011-2) (IJSR, 2023)
 * {2023-11-05} [A Unified Bi-Directional Model for Natural and Artificial Trust in Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9450023) (RAL, 2021)
