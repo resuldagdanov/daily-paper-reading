@@ -59,7 +59,10 @@
 * {2023-09-08} [Trust Dynamics and Verbal Assurances in Human Robot Physical Collaboration](https://www.frontiersin.org/articles/10.3389/frai.2021.703504/full) (Frontiers in Artificial Intelligence, 2021)
 * {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM Transactions on Human-Robot Interaction, 2022)
 
+----------------------------------------
+
 ### Human-Autonomy Teaming
+* {2023-11-14} [Clustering Trust Dynamics in a Human-Robot Sequential Decision-Making Task](https://ieeexplore.ieee.org/abstract/document/9816108) (RAL, 2022)
 * {2023-10-27} [A Meta-Analysis of Factors Influencing the Development of Trust in Automation: Implications for Understanding Autonomy in Future Systems](https://journals.sagepub.com/doi/full/10.1177/0018720816634228) (HFES, 2016)
 * {2023-09-22} [Learning Reward Functions from Diverse Sources of Human Feedback: Optimally Integrating Demonstrations and Preferences](https://journals.sagepub.com/doi/full/10.1177/02783649211041652) (IJRR, 2021)
 * {2023-08-24} [Who/What Is My Teammate? Team Composition Considerations in Human-AI Teaming](https://ieeexplore.ieee.org/abstract/document/9474953) (Transactions on Human-Machine Systems, 2021)
@@ -70,6 +73,8 @@
 * {2023-08-13} [Human-Automation Teaming: Lessons Learned and Future Directions](https://link.springer.com/chapter/10.1007/978-3-319-92046-7_40) (HIMI, 2018)
 * {2023-08-12} [Human–Autonomy Teaming: Definitions, Debates, and Directions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.589585/full) (Frontiers, 2021)
 * {2023-08-11} [Human–Autonomy Teaming: A Review and Analysis of the Empirical Literature](https://journals.sagepub.com/doi/full/10.1177/0018720820960865) (HFES, 2020)
+
+----------------------------------------
 
 ### Human-Robot Collaboration
 * {2023-11-10} [Partially Observable Markov Decision Processes in Robotics: A Survey](https://ieeexplore.ieee.org/abstract/document/9899480) (Transactions on Robotics, 2023)
@@ -88,10 +93,14 @@
 * {2023-06-28} [Studying Human Robot Interaction and Its Characteristics](https://journals.gaftim.com/index.php/ijcim/article/view/73) (IJSR, 2022)
 * {2023-06-27} [Planning with Trust for Human-Robot Collaboration](https://dl.acm.org/doi/abs/10.1145/3171221.3171264) (HRI, 2018)
 
+----------------------------------------
+
 ### Driving Scenario Identification-Classification
 * {2023-03-04} [Expert-LaSTS: Expert-Knowledge Guided Latent Space for Traffic Scenarios](https://ieeexplore.ieee.org/abstract/document/9827187) (IV, 2022)
 * {2022-10-01} [A General Autonomous Driving Planner Adaptive to Scenario Characteristics](https://ieeexplore.ieee.org/abstract/document/9819857) (ITSS, 2022)
 * {2022-09-30} [Decision-Oriented Driving Scenario Recognition Based on Unsupervised Learning](https://ascelibrary.org/doi/abs/10.1061/9780784483565.055) (CICTP, 2021)
+
+----------------------------------------
 
 ### Black-Box Validation for Self-Driving
 * {2022-12-21} [Trustworthy Safety Improvement for Autonomous Driving Using Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0968090X22000997) (Transportation Research Part C, 2022)
@@ -126,6 +135,8 @@
 * {2022-02-23} [Testing advanced driver assistance systems using multi-objective search and neural networks](https://dl.acm.org/doi/pdf/10.1145/2970276.2970311) (ACM, 2016)
 * {2022-02-22} [Testing ADAS/AV Algorithms with TrustworthySearch](https://trustworthy.ai/docs/demo/integration_guide.pdf) (2020)
 
+----------------------------------------
+
 ### Battery Management System for Electric Vehicles
 * {2023-06-06} [Cloud-Based Artificial Intelligence Framework for Battery Management System](https://www.mdpi.com/1996-1073/16/11/4403) (Energies, 2023)
 * {2023-01-14} [Battery lifetime of electric vehicles by novel rainflow-counting algorithm with temperature and C-rate dynamics](https://www.sciencedirect.com/science/article/pii/S2352152X22024471) (Journal of Energy Storage, 2023)
@@ -158,6 +169,8 @@
 * {2022-08-08} [Initiation of Thermal Runaway in Lithium-Ion Cells by Inductive Heating](https://www.sciencedirect.com/science/article/pii/S0378775320302172) (Journal of Power Sources 454, 2020)
 * {2022-08-07} [Overview of Batteries and Battery Management for Electric Vehicles](https://www.sciencedirect.com/science/article/pii/S2352484722005716) (Energy Reports 8, 2022)
 
+----------------------------------------
+
 ### Graph-Based Reinforcement Learning
 * {2022-05-06} [Reinforcement Learning and Graph Embedding for Binary Truss Topology Optimization Under Stress and Displacement Constraints](https://www.frontiersin.org/articles/10.3389/fbuil.2020.00059/full) (Frontiers Built Environ, 2020)
 * {2022-05-05} [Sample-Efficient Deep Reinforcement Learning with Directed Associative Graph](https://ieeexplore.ieee.org/abstract/document/9459568) (China Communications, 2021)
@@ -169,6 +182,8 @@
 * {2022-03-22} [Search on the Replay Buffer: Bridging Planning and Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/5c48ff18e0a47baaf81d8b8ea51eec92-Paper.pdf) (NeurIPS, 2019)
 * {2022-03-10} [Sparse Graphical Memory for Robust Planning](https://arxiv.org/pdf/2003.06417.pdf) (NeurIPS, 2020)
 
+----------------------------------------
+
 ### Efficient Data Sampling
 * {2022-07-08} [Making Efficient Use of Demonstrations to Solve Hard Exploration Problems](https://www.deepmind.com/publications/making-efficient-use-of-demonstrations-to-solve-hard-exploration-problems) (ICLR, 2019)
 * {2022-04-29} [Active Mini-Batch Sampling Using Repulsive Point Processes](https://ojs.aaai.org/index.php/AAAI/article/view/4520) (AAAI, 2019)
@@ -176,6 +191,8 @@
 * {2022-04-25} [Deterministic Graph Exploration for Efficient Graph Sampling](https://link.springer.com/article/10.1007/s13278-017-0441-6) (SNAM, 2017)
 * {2022-04-23} [Learning by Sampling and Compressing: Efficient Graph Representation Learning with Extremely Limited Annotations](https://arxiv.org/pdf/2003.06100.pdf) (AAAI, 2020)
 * {2022-04-22} [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/pdf/2004.02757.pdf) (2020)
+
+----------------------------------------
 
 ### Imitation Learning in Autonomous Driving
 * {2022-12-31} [VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9812276) (ICRA, 2022)
@@ -188,6 +205,8 @@
 * {2022-04-04} [Continuous Online Learning and New Insights to Online Imitation Learning](https://arxiv.org/pdf/1912.01261.pdf) (NeurIPS, 2019)
 * {2022-04-03} [HG-DAgger: Interactive Imitation Learning with Human Experts](https://ieeexplore.ieee.org/abstract/document/8793698) (ICRA, 2019)
 * {2022-03-28} [Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9564785) (ITSC, 2021)
+
+----------------------------------------
 
 ### Offline Reinforcement Learning
 * {2022-06-18} [Optimizing Trajectories for Highway Driving with Offline Reinforcement Learning](https://arxiv.org/pdf/2203.10949.pdf) (2022)
@@ -211,10 +230,14 @@
 * {2022-03-08} [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.13425.pdf) (2022)
 * {2022-03-07} [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://proceedings.neurips.cc/paper/2021/file/ac56f8fe9eea3e4a365f29f0f1957c55-Paper.pdf) (NeurIPS, 2021)
 
+----------------------------------------
+
 ### Knowledge & Dataset Distillation
 * {2022-03-15} [Knowledge Distillation: A Survey](https://link.springer.com/article/10.1007/s11263-021-01453-z) (IJCV, 2021)
 * {2022-03-14} [Knowledge distillation in deep learning and its applications](https://peerj.com/articles/cs-474.pdf) (PeerJ Computer Science, 2021)
 * {2022-03-13} [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf?ref=https://githubhelp.com) (2020)
+
+----------------------------------------
 
 ### Carla Autonomous Driving Challenge
 * {2022-10-29} [PlanT: Explainable Planning Transformers via Object-Level Representations](https://arxiv.org/pdf/2210.14222.pdf) (CoRL, 2022)
@@ -243,8 +266,12 @@
 * {2022-02-05} [Exploring the Limitations of Behavior Cloning for Autonomous Driving](https://openaccess.thecvf.com/content_ICCV_2019/papers/Codevilla_Exploring_the_Limitations_of_Behavior_Cloning_for_Autonomous_Driving_ICCV_2019_paper.pdf) (ICCV, 2019)
 * {2022-02-04} [A reduction of imitation learning and structured prediction to no-regret online learning](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf) (JMLR, 2011)
 
+----------------------------------------
+
 ### Deep Reinforcement Learning in Autonomous Driving
 * {2022-09-16} [Automated Lane Change Decision Making using Deep Reinforcement Learning in Dynamic and Uncertain Highway Environment](https://ieeexplore.ieee.org/abstract/document/8917192) (ITSC, 2019)
+
+----------------------------------------
 
 ### Multi-Agent Learning
 * {2022-02-03} [Deep Reinforcement Learning for Multiagent Systems: A Review of Challenges, Solutions, and Applications](https://ieeexplore.ieee.org/abstract/document/9043893) (ITC, 2020)
@@ -258,6 +285,8 @@
 * {2022-01-26} [DeepRacer: Educational Autonomous Racing Platform for Experimentation with Sim2Real Reinforcement Learning](https://arxiv.org/pdf/1911.01562) (ICRA, 2019)
 * {2022-01-25} [Cooperative Multi-Agent Learning: The State of the Art](https://link.springer.com/article/10.1007/s10458-005-2631-2) (AAMAS, 2005)
 
+----------------------------------------
+
 ### Curriculum Learning
 * {2022-01-24} [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423.pdf) (ICLR, 2020)
 * {2022-01-23} [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z) (Nature, 2019)
@@ -270,6 +299,8 @@
 * {2022-01-16} [Curriculum learning: A survey](https://arxiv.org/pdf/2101.10382.pdf) (2021)
 * {2022-01-15} [Behaviorally Diverse Traffic Simulation via Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341493) (IROS, 2020)
 
+----------------------------------------
+
 ### Evolutionary Training
 * {2022-01-14} [A Coevolutionary Approach to Deep Multi-Agent Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3449726.3459576) (GECCO, 2021)
 * {2022-01-13} [Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination](http://proceedings.mlr.press/v119/majumdar20a/majumdar20a.pdf) (PMLR, 2020)
@@ -280,6 +311,8 @@
 * {2022-01-08} [Evolutionary Algorithms for Reinforcement Learning](https://www.jair.org/index.php/jair/article/view/10240/24373) (JAIR, 1999)
 * {2022-01-07} [Competitive Evolution Multi-Agent Deep Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3331453.3360975) (ACM, 2019)
 * {2022-01-06} [Collaborative Evolutionary Reinforcement Learning](http://proceedings.mlr.press/v97/khadka19a/khadka19a.pdf) (PMLR, 2019)
+
+----------------------------------------
 
 ### Population Based Training
 * {2022-01-05} [Population Based Training of Neural Networks](https://arxiv.org/pdf/1711.09846.pdf?source=post_page---------------------------) (2017)
