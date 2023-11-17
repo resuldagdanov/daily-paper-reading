@@ -195,6 +195,7 @@
 ----------------------------------------
 
 ### Imitation Learning in Autonomous Driving
+* {2023-11-17} [Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization](https://arxiv.org/abs/2202.10341) (ICML, 2023)
 * {2022-12-31} [VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9812276) (ICRA, 2022)
 * {2022-10-17} [T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/8809901) (ITS, 2020)
 * {2022-07-05} [High-Level Decision Making for Automated Highway Driving via Behavior Cloning](https://ieeexplore.ieee.org/abstract/document/9761743) (IV, 2022)
