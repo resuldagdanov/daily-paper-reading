@@ -195,7 +195,7 @@
 ----------------------------------------
 
 ### Imitation Learning in Autonomous Driving
-* {2023-11-17} [Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization](https://arxiv.org/abs/2202.10341) (ICML, 2023)
+* {2023-11-17} [Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization](https://arxiv.org/abs/2202.10341) (ICML, 2022)
 * {2022-12-31} [VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9812276) (ICRA, 2022)
 * {2022-10-17} [T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/8809901) (ITS, 2020)
 * {2022-07-05} [High-Level Decision Making for Automated Highway Driving via Behavior Cloning](https://ieeexplore.ieee.org/abstract/document/9761743) (IV, 2022)
@@ -270,6 +270,7 @@
 ----------------------------------------
 
 ### Deep Reinforcement Learning in Autonomous Driving
+* {2023-11-18} [Toward Human-in-the-Loop AI: Enhancing Deep Reinforcement Learning via Real-Time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878) (Engineering, 2023)
 * {2023-11-16} [Human-Guided Reinforcement Learning With Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/abstract/document/10250993) (Transactions on Pattern Analysis and Machine Intelligence, 2023)
 * {2022-09-16} [Automated Lane Change Decision Making using Deep Reinforcement Learning in Dynamic and Uncertain Highway Environment](https://ieeexplore.ieee.org/abstract/document/8917192) (ITSC, 2019)
 
