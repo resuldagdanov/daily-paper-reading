@@ -270,6 +270,7 @@
 ----------------------------------------
 
 ### Deep Reinforcement Learning in Autonomous Driving
+* {2023-11-21} [Prioritized Experience-Based Reinforcement Learning With Human Guidance for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9793564) (Transactions on Neural Networks and Learning Systems, 2022)
 * {2023-11-18} [Toward Human-in-the-Loop AI: Enhancing Deep Reinforcement Learning via Real-Time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878) (Engineering, 2023)
 * {2023-11-16} [Human-Guided Reinforcement Learning With Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/abstract/document/10250993) (Transactions on Pattern Analysis and Machine Intelligence, 2023)
 * {2022-09-16} [Automated Lane Change Decision Making using Deep Reinforcement Learning in Dynamic and Uncertain Highway Environment](https://ieeexplore.ieee.org/abstract/document/8917192) (ITSC, 2019)
