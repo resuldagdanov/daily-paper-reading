@@ -44,6 +44,7 @@
 ----------------------------------------
 
 ### Inverse Reinforcement Learning
+* {2023-11-27} [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/1015330.1015430) (ICML, 2004)
 * {2023-11-26} [Algorithms for Inverse Reinforcement Learning](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf) (ICML, 2000)
 
 ----------------------------------------
