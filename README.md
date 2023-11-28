@@ -5,6 +5,8 @@
 
 ## Content Topics
 
+&#8594; [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
+
 &#8594; [Dynamic Modeling of Trust in Autonomy](#dynamic-modeling-of-trust-in-autonomy)
 
 &#8594; [Human-Autonomy Teaming](#human-autonomy-teaming)
@@ -38,6 +40,11 @@
 &#8594; [Evolutionary Training](#evolutionary-training)
 
 &#8594; [Population Based Training](#population-based-training)
+
+----------------------------------------
+
+### Inverse Reinforcement Learning
+* {2023-11-26} [Algorithms for Inverse Reinforcement Learning](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf) (ICML, 2000)
 
 ----------------------------------------
 
