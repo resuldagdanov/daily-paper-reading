@@ -90,6 +90,7 @@
 ----------------------------------------
 
 ### Human-Robot Collaboration
+* {2023-12-03} [Getting to Know One Another: Calibrating Intent, Capabilities and Trust for Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9340736) (IROS, 2020)
 * {2023-11-10} [Partially Observable Markov Decision Processes in Robotics: A Survey](https://ieeexplore.ieee.org/abstract/document/9899480) (Transactions on Robotics, 2023)
 * {2023-10-22} [Robot Trust and Self-Confidence Based Role Arbitration Method for Physical Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/10160711) (ICRA, 2023)
 * {2023-10-09} [Trust-Aware Motion Planning for Human-Robot Collaboration under Distribution Temporal Logic Specifications](https://arxiv.org/abs/2310.01163) (ArXiv, 2023)
