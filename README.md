@@ -44,6 +44,7 @@
 ----------------------------------------
 
 ### Inverse Reinforcement Learning
+* {2023-12-07} [Mixed-Initiative Multiagent Apprenticeship Learning for Human Training of Robot Teams](https://openreview.net/forum?id=VCOZaczCHg) (NeurIPS, 2023)
 * {2023-12-02} [Sampling-based Inverse Reinforcement Learning Algorithms with Safety Constraints](https://ieeexplore.ieee.org/abstract/document/9636672) (IROS, 2021)
 * {2023-12-01} [Learner-aware Teaching: Inverse Reinforcement Learning with Preferences and Constraints](https://proceedings.neurips.cc/paper/2019/hash/3de568f8597b94bda53149c7d7f5958c-Abstract.html) (NeurIPS, 2019)
 * {2023-11-29} [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://proceedings.mlr.press/v48/finn16.pdf) (ICML, 2016)
