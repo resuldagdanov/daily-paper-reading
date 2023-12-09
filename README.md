@@ -204,6 +204,7 @@
 ----------------------------------------
 
 ### Efficient Data Sampling
+* {2023-12-09} [Human-Guided Robot Behavior Learning: A GAN-Assisted Preference-Based Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/9369902) (RAL, 2021)
 * {2022-07-08} [Making Efficient Use of Demonstrations to Solve Hard Exploration Problems](https://www.deepmind.com/publications/making-efficient-use-of-demonstrations-to-solve-hard-exploration-problems) (ICLR, 2019)
 * {2022-04-29} [Active Mini-Batch Sampling Using Repulsive Point Processes](https://ojs.aaai.org/index.php/AAAI/article/view/4520) (AAAI, 2019)
 * {2022-04-28} [Rank Degree: An Efficient Algorithm for Graph Sampling](https://ieeexplore.ieee.org/abstract/document/7752223) (ASONAM, 2016)
