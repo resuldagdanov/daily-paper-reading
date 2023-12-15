@@ -78,6 +78,7 @@
 ----------------------------------------
 
 ### Human-Autonomy Teaming
+* {2023-12-15} [Asking Easy Questions: A User-Friendly Approach to Active Reward Learning](https://proceedings.mlr.press/v100/b-iy-ik20a.html) (PMLR, 2020)
 * {2023-12-08} [A Survey of Multi-Agent Human-Robot Interaction Systems](https://www.sciencedirect.com/science/article/abs/pii/S092188902200224X) (RAS, 2023)
 * {2023-11-14} [Clustering Trust Dynamics in a Human-Robot Sequential Decision-Making Task](https://ieeexplore.ieee.org/abstract/document/9816108) (RAL, 2022)
 * {2023-10-27} [A Meta-Analysis of Factors Influencing the Development of Trust in Automation: Implications for Understanding Autonomy in Future Systems](https://journals.sagepub.com/doi/full/10.1177/0018720816634228) (HFES, 2016)
