@@ -101,7 +101,7 @@
 * {2023-12-03} [Getting to Know One Another: Calibrating Intent, Capabilities and Trust for Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9340736) (IROS, 2020)
 * {2023-11-10} [Partially Observable Markov Decision Processes in Robotics: A Survey](https://ieeexplore.ieee.org/abstract/document/9899480) (Transactions on Robotics, 2023)
 * {2023-10-22} [Robot Trust and Self-Confidence Based Role Arbitration Method for Physical Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/10160711) (ICRA, 2023)
-* {2023-10-09} [Trust-Aware Motion Planning for Human-Robot Collaboration under Distribution Temporal Logic Specifications](https://arxiv.org/abs/2310.01163) (ArXiv, 2023)
+* {2023-10-09} [Trust-Aware Motion Planning for Human-Robot Collaboration under Distribution Temporal Logic Specifications](https://arxiv.org/abs/2310.01163) (2023)
 * {2023-09-20} [Efficient Model Learning from Joint-Action Demonstrations for Human-Robot Collaborative Tasks](https://dl.acm.org/doi/abs/10.1145/2696454.2696455) (HRI, 2015)
 * {2023-09-14} [Maintaining Efficient Collaboration with Trust-Seeking Robots](https://ieeexplore.ieee.org/abstract/document/7759510) (IROS, 2016)
 * {2023-09-13} [Human Modeling in Physical Human-Robot Interaction: A Brief Survey](https://ieeexplore.ieee.org/abstract/document/10185034) (RAL, 2023)
@@ -235,6 +235,7 @@
 ----------------------------------------
 
 ### Offline Reinforcement Learning
+* {2023-12-24} [Hundreds Guide Millions: Adaptive Offline Reinforcement Learning With Expert Guidance](https://ieeexplore.ieee.org/abstract/document/10310284) (Transactions on Neural Networks and Learning Systems, 2023)
 * {2022-06-18} [Optimizing Trajectories for Highway Driving with Offline Reinforcement Learning](https://arxiv.org/pdf/2203.10949.pdf) (2022)
 * {2022-04-30} [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/pdf/2112.10751.pdf) (2021)
 * {2022-04-24} [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://proceedings.neurips.cc/paper/2021/file/60ce36723c17bbac504f2ef4c8a46995-Paper.pdf) (NeurIPS, 2021)
