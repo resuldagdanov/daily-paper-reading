@@ -44,6 +44,7 @@
 ----------------------------------------
 
 ### Inverse Reinforcement Learning
+* {2023-12-25} [Maximum Margin Planning](https://dl.acm.org/doi/abs/10.1145/1143844.1143936) (ICML, 2006)
 * {2023-12-23} [Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications](https://ieeexplore.ieee.org/abstract/document/10160687) (ICRA, 2023)
 * {2023-12-12} [Active Preference-Based Learning of Reward Functions](https://escholarship.org/uc/item/88k894w7) (RSS, 2017)
 * {2023-12-07} [Mixed-Initiative Multiagent Apprenticeship Learning for Human Training of Robot Teams](https://openreview.net/forum?id=VCOZaczCHg) (NeurIPS, 2023)
