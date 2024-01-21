@@ -44,6 +44,7 @@
 ----------------------------------------
 
 ### Inverse Reinforcement Learning
+* {2024-01-20} [f-IRL: Inverse Reinforcement Learning via State Marginal Matching](https://proceedings.mlr.press/v155/ni21a.html) (CoRL, 2020)
 * {2023-12-26} [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](https://proceedings.mlr.press/v97/brown19a.html) (ICML, 2019)
 * {2023-12-25} [Maximum Margin Planning](https://dl.acm.org/doi/abs/10.1145/1143844.1143936) (ICML, 2006)
 * {2023-12-23} [Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications](https://ieeexplore.ieee.org/abstract/document/10160687) (ICRA, 2023)
