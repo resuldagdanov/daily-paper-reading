@@ -100,6 +100,7 @@
 ----------------------------------------
 
 ### Human-Robot Collaboration
+* {2024-01-23} [Robot Learning on the Job Human-in-the-Loop Autonomy and Learning During Deployment](https://www.roboticsproceedings.org/rss19/p005.pdf) (RSS, 2023)
 * {2023-12-27} [Learning Human Objectives from Sequences of Physical Corrections](https://ieeexplore.ieee.org/abstract/document/9560829) (ICRA, 2021)
 * {2023-12-05} [An Optimization-Based Human Behavior Modeling and Prediction for Human-Robot Collaborative Disassembly](https://ieeexplore.ieee.org/document/10156342) (ACC, 2023)
 * {2023-12-04} [Reward Shaping for Building Trustworthy Robots in Sequential Human-Robot Interaction](https://arxiv.org/abs/2308.00945) (IROS, 2023)
