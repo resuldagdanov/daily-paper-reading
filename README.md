@@ -61,6 +61,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2024-01-25} [Modeling and Control of Trust in Human and Robot Collaborative Manufacturing](https://link.springer.com/chapter/10.1007/978-1-4899-7668-0_7) (RITAS, 2016)
 * {2023-12-06} [Enabling Team of Teams: A Trust Inference and Propagation (TIP) Model in Multi-Human Multi-Robot Teams](https://arxiv.org/abs/2305.12614) (RSS, 2023)
 * {2023-11-30} [Models of Trust in Human Control of Swarms With Varied Levels of Autonomy](https://ieeexplore.ieee.org/abstract/document/8651317) (Transactions on Human-Machine Systems, 2019)
 * {2023-11-08} [Adaptive Trust Model for Multi-Agent Teaming Based on Reinforcement-Learning-Based Fusion](https://ieeexplore.ieee.org/abstract/document/10272285) (TETCI, 2023)
