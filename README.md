@@ -44,6 +44,7 @@
 ----------------------------------------
 
 ### Inverse Reinforcement Learning
+* {2024-03-07} [Inverse Reinforcement Learning without Reinforcement Learning](https://proceedings.mlr.press/v202/swamy23a.html) (PMLR, 2023)
 * {2024-01-21} [BC-IRL: Learning Generalizable Reward Functions from Demonstrations](https://openreview.net/forum?id=Ovnwe_sDQW) (ICML, 2023)
 * {2024-01-20} [f-IRL: Inverse Reinforcement Learning via State Marginal Matching](https://proceedings.mlr.press/v155/ni21a.html) (CoRL, 2020)
 * {2023-12-26} [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](https://proceedings.mlr.press/v97/brown19a.html) (ICML, 2019)
