@@ -86,6 +86,7 @@
 ----------------------------------------
 
 ### Human-Autonomy Teaming
+* {2024-03-27} [Measurement of Trust in Automation: A Narrative Review and Reference Guide](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.604977) (Frontiers in Psychology, 2021)
 * {2023-12-15} [Asking Easy Questions: A User-Friendly Approach to Active Reward Learning](https://proceedings.mlr.press/v100/b-iy-ik20a.html) (PMLR, 2020)
 * {2023-12-08} [A Survey of Multi-Agent Human-Robot Interaction Systems](https://www.sciencedirect.com/science/article/abs/pii/S092188902200224X) (RAS, 2023)
 * {2023-11-14} [Clustering Trust Dynamics in a Human-Robot Sequential Decision-Making Task](https://ieeexplore.ieee.org/abstract/document/9816108) (RAL, 2022)
