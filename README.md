@@ -62,6 +62,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2024-03-29} [A Kalman Estimation Model of Human Trust in Supervisory Control of Robotic Swarms](https://journals.sagepub.com/doi/abs/10.1177/1071181320641075) (HFES, 2020)
 * {2024-03-28} [Dynamic Trust Metrics for Peer-to-Peer Systems](https://ieeexplore.ieee.org/abstract/document/1508367) (DEXA, 2005)
 * {2024-03-26} [A Bayesian Trust Inference Model for Human-Multi-Robot Teams](https://link.springer.com/article/10.1007/s12369-020-00705-1) (IJSR, 2021)
 * {2024-01-25} [Modeling and Control of Trust in Human and Robot Collaborative Manufacturing](https://link.springer.com/chapter/10.1007/978-1-4899-7668-0_7) (RITAS, 2016)
