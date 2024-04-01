@@ -220,6 +220,7 @@
 ----------------------------------------
 
 ### Efficient Data Sampling
+* {2024-04-01} [Data Quality in Imitation Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fe692980c5d9732cf153ce27947653a7-Abstract-Conference.html) (NeurIPS, 2023)
 * {2023-12-14} [Human-in-the-Loop Reinforcement Learning in Continuous-Action Space](https://ieeexplore.ieee.org/document/10175618) (Transactions on Neural Networks and Learning Systems, 2023)
 * {2023-12-13} [Guided Policy Exploration for Markov Decision Processes Using an Uncertainty-Based Value-of-Information Criterion](https://ieeexplore.ieee.org/abstract/document/8326734) (Transactions on Neural Networks and Learning Systems, 2018)
 * {2023-12-09} [Human-Guided Robot Behavior Learning: A GAN-Assisted Preference-Based Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/9369902) (RAL, 2021)
