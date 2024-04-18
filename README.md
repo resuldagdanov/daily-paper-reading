@@ -62,6 +62,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2024-04-19} [Continuous Ratings in Discrete Bayesian Reputation Systems](https://link.springer.com/chapter/10.1007/978-0-387-09428-1_10) (ICTM, 2008)
 * {2024-04-18} [The Beta Reputation System](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6ca3e2014e552f9a53a5b98d68b526a156f2e93f) (Electronic Commerce Conference, 2002)
 * {2024-04-17} [A Survey of Trust and Reputation Systems for Online Service Provision](https://www.sciencedirect.com/science/article/abs/pii/S0167923605000849) (Decision Support Systems, 2007)
 * {2024-03-29} [A Kalman Estimation Model of Human Trust in Supervisory Control of Robotic Swarms](https://journals.sagepub.com/doi/abs/10.1177/1071181320641075) (HFES, 2020)
