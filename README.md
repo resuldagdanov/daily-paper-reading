@@ -46,7 +46,7 @@
 ----------------------------------------
 
 ### Science Behind Human Trust
-* {2024-06-03} [Neural Correlates and Mechanisms of Trust](https://www.jstor.org/stable/20721433) (Neuroergonomics, 2020)
+* {2024-06-03} [Neural Correlates and Mechanisms of Trust](https://link.springer.com/chapter/10.1007/978-3-030-34784-0_22) (Neuroergonomics, 2020)
 * {2024-06-02} [What Does the Brain Tell Us About Trust and Distrust Evidence from a Functional Neuroimaging Study](https://www.jstor.org/stable/20721433) (JSTOR, 2010)
 * {2024-06-01} [An Integrative Model of Organizational Trust](https://www.jstor.org/stable/258792) (The Academy of Management Review, 1995)
 
@@ -101,6 +101,7 @@
 ----------------------------------------
 
 ### Human-Autonomy Teaming
+* {2024-05-31} [The Role of Trust in Human-Robot Interaction](https://library.oapen.org/bitstream/handle/20.500.12657/27806/1/1002199.pdf#page=147) (Foundations of trusted autonomy, 2018)
 * {2024-03-27} [Measurement of Trust in Automation: A Narrative Review and Reference Guide](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.604977) (Frontiers in Psychology, 2021)
 * {2023-12-15} [Asking Easy Questions: A User-Friendly Approach to Active Reward Learning](https://proceedings.mlr.press/v100/b-iy-ik20a.html) (PMLR, 2020)
 * {2023-12-08} [A Survey of Multi-Agent Human-Robot Interaction Systems](https://www.sciencedirect.com/science/article/abs/pii/S092188902200224X) (RAS, 2023)
