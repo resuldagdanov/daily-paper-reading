@@ -71,6 +71,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2024-06-04} [Human Trust in Robots: A Survey on Trust Models and Their Controls/Robotics Applications](https://ieeexplore.ieee.org/abstract/document/10366819) (Journal of Control Systems, 2023)
 * {2024-04-21} [Modeling Other Minds: Bayesian Inference Explains Human Choices in Group Decision-Making](https://www.science.org/doi/full/10.1126/sciadv.aax8783) (Science Advances, 2019)
 * {2024-04-19} [Continuous Ratings in Discrete Bayesian Reputation Systems](https://link.springer.com/chapter/10.1007/978-0-387-09428-1_10) (ICTM, 2008)
 * {2024-04-18} [The Beta Reputation System](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6ca3e2014e552f9a53a5b98d68b526a156f2e93f) (Electronic Commerce Conference, 2002)
