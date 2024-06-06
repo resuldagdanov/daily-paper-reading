@@ -9,6 +9,8 @@
 
 &#8594; [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
 
+&#8594; [Behavioral Economics and Business Models](#behavioral-economics-and-business-models)
+
 &#8594; [Dynamic Modeling of Trust in Autonomy](#dynamic-modeling-of-trust-in-autonomy)
 
 &#8594; [Human-Autonomy Teaming](#human-autonomy-teaming)
@@ -67,6 +69,11 @@
 * {2023-11-28} [Maximum Entropy Inverse Reinforcement Learning](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf) (AAAI, 2008)
 * {2023-11-27} [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/1015330.1015430) (ICML, 2004)
 * {2023-11-26} [Algorithms for Inverse Reinforcement Learning](http://www.datascienceassn.org/sites/default/files/Algorithms%20for%20Inverse%20Reinforcement%20Learning.pdf) (ICML, 2000)
+
+----------------------------------------
+
+### Behavioral Economics and Business Models
+* {2024-06-06} [Prospect Theory: An Analysis of Decision Under Risk](http://hassler-j.iies.su.se/COURSES/NewPrefs/Papers/KahnemanTversky%20Ec%2079.pdf) (Econometrica, 1979)
 
 ----------------------------------------
 
