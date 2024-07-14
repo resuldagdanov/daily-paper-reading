@@ -5,6 +5,8 @@
 
 ## Content Topics
 
+&#8594; [Psychology Perspective on Trust](#psychology-perspective-on-trust)
+
 &#8594; [Science Behind Human Trust](#science-behind-human-trust)
 
 &#8594; [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
@@ -46,6 +48,9 @@
 &#8594; [Population Based Training](#population-based-training)
 
 ----------------------------------------
+
+### Psychology Perspective on Trust
+* {2024-07-14} [Measuring Trust](https://www.researchgate.net/profile/Paul-Bauer-4/publication/323219380_Measuring_Trust/links/5a86b1e20f7e9b1a9548eafe/Measuring-Trust) (2018)
 
 ### Science Behind Human Trust
 * {2024-06-03} [Neural Correlates and Mechanisms of Trust](https://link.springer.com/chapter/10.1007/978-3-030-34784-0_22) (Neuroergonomics, 2020)
