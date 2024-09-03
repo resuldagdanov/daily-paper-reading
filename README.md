@@ -54,7 +54,7 @@
 
 ### Science Behind Human Trust
 * {2024-06-03} [Neural Correlates and Mechanisms of Trust](https://link.springer.com/chapter/10.1007/978-3-030-34784-0_22) (Neuroergonomics, 2020)
-* {2024-06-02} [What Does the Brain Tell Us About Trust and Distrust Evidence from a Functional Neuroimaging Study](https://www.jstor.org/stable/20721433) (JSTOR, 2010)
+* {2024-06-02} [What Does the Brain Tell Us About Trust and Distrust Evidence from a Functional Neuroimaging Study](https://www.jstor.org/stable/20721433) (MIS Quarterly, 2010)
 * {2024-06-01} [An Integrative Model of Organizational Trust](https://www.jstor.org/stable/258792) (The Academy of Management Review, 1995)
 
 ----------------------------------------
@@ -78,6 +78,7 @@
 ----------------------------------------
 
 ### Behavioral Economics and Business Models
+* {2024-09-03} [Advances In Prospect Theory: Cumulative Representation of Uncertainty](https://link.springer.com/article/10.1007/BF00122574) (Journal of Risk and Uncertainty, 1992)
 * {2024-09-02} [Robot Navigation in Risky, Crowded Environments: Understanding Human Preferences](https://ieeexplore.ieee.org/document/10167754) (RAL, 2023)
 * {2024-06-06} [Prospect Theory: An Analysis of Decision Under Risk](http://hassler-j.iies.su.se/COURSES/NewPrefs/Papers/KahnemanTversky%20Ec%2079.pdf) (Econometrica, 1979)
 
