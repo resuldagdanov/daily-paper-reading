@@ -78,6 +78,7 @@
 ----------------------------------------
 
 ### Behavioral Economics and Business Models
+* {2024-09-02} [Robot Navigation in Risky, Crowded Environments: Understanding Human Preferences](https://ieeexplore.ieee.org/document/10167754) (RAL, 2023)
 * {2024-06-06} [Prospect Theory: An Analysis of Decision Under Risk](http://hassler-j.iies.su.se/COURSES/NewPrefs/Papers/KahnemanTversky%20Ec%2079.pdf) (Econometrica, 1979)
 
 ----------------------------------------
