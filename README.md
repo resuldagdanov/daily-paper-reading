@@ -50,6 +50,7 @@
 ----------------------------------------
 
 ### Psychology Perspective on Trust
+* {2024-10-29} [You Want Me to Trust a ROBOT? The Development of a Human-Robot Interaction Trust Scale](https://link.springer.com/article/10.1007/s12369-012-0144-0) (IJSR, 2012)
 * {2024-07-14} [Measuring Trust](https://www.researchgate.net/profile/Paul-Bauer-4/publication/323219380_Measuring_Trust/links/5a86b1e20f7e9b1a9548eafe/Measuring-Trust) (2018)
 
 ### Science Behind Human Trust
