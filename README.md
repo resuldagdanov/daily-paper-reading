@@ -53,6 +53,8 @@
 * {2024-10-29} [You Want Me to Trust a ROBOT? The Development of a Human-Robot Interaction Trust Scale](https://link.springer.com/article/10.1007/s12369-012-0144-0) (IJSR, 2012)
 * {2024-07-14} [Measuring Trust](https://www.researchgate.net/profile/Paul-Bauer-4/publication/323219380_Measuring_Trust/links/5a86b1e20f7e9b1a9548eafe/Measuring-Trust) (2018)
 
+----------------------------------------
+
 ### Science Behind Human Trust
 * {2024-06-03} [Neural Correlates and Mechanisms of Trust](https://link.springer.com/chapter/10.1007/978-3-030-34784-0_22) (Neuroergonomics, 2020)
 * {2024-06-02} [What Does the Brain Tell Us About Trust and Distrust Evidence from a Functional Neuroimaging Study](https://www.jstor.org/stable/20721433) (MIS Quarterly, 2010)
@@ -86,6 +88,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2024-10-31} [Toward Efficient Manufacturing Systems: a Trust Based Human Robot Collaboration](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/7963171/) (ACC, 2017)
 * {2024-06-04} [Human Trust in Robots: A Survey on Trust Models and Their Controls/Robotics Applications](https://ieeexplore.ieee.org/abstract/document/10366819) (Journal of Control Systems, 2023)
 * {2024-04-21} [Modeling Other Minds: Bayesian Inference Explains Human Choices in Group Decision-Making](https://www.science.org/doi/full/10.1126/sciadv.aax8783) (Science Advances, 2019)
 * {2024-04-19} [Continuous Ratings in Discrete Bayesian Reputation Systems](https://link.springer.com/chapter/10.1007/978-0-387-09428-1_10) (ICTM, 2008)
