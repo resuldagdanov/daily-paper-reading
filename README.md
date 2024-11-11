@@ -81,6 +81,7 @@
 ----------------------------------------
 
 ### Behavioral Economics and Business Models
+* {2024-11-11} [Examining Profiles for Robotic Risk Assessment: Does a Robot's Approach to Risk Affect User Trust?](https://dl-acm-org.ezproxy.lib.uts.edu.au/doi/abs/10.1145/3319502.3374804) (HRI, 2020)
 * {2024-09-03} [Advances In Prospect Theory: Cumulative Representation of Uncertainty](https://link.springer.com/article/10.1007/BF00122574) (Journal of Risk and Uncertainty, 1992)
 * {2024-09-02} [Robot Navigation in Risky, Crowded Environments: Understanding Human Preferences](https://ieeexplore.ieee.org/document/10167754) (RAL, 2023)
 * {2024-06-06} [Prospect Theory: An Analysis of Decision Under Risk](http://hassler-j.iies.su.se/COURSES/NewPrefs/Papers/KahnemanTversky%20Ec%2079.pdf) (Econometrica, 1979)
