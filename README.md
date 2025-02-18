@@ -92,6 +92,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2025-02-18} [In Human-Machine trust, Humans Rely on a Simple Averaging Strategy](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-024-00583-5) (Cognitive Research: Principles and Implications, 2024)
 * {2024-10-31} [Toward Efficient Manufacturing Systems: a Trust Based Human Robot Collaboration](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/7963171/) (ACC, 2017)
 * {2024-06-04} [Human Trust in Robots: A Survey on Trust Models and Their Controls/Robotics Applications](https://ieeexplore.ieee.org/abstract/document/10366819) (Journal of Control Systems, 2023)
 * {2024-04-21} [Modeling Other Minds: Bayesian Inference Explains Human Choices in Group Decision-Making](https://www.science.org/doi/full/10.1126/sciadv.aax8783) (Science Advances, 2019)
