@@ -57,6 +57,7 @@
 ----------------------------------------
 
 ### Science Behind Human Trust
+* {2025-02-20} [Reinforcement Learning in the Brain](https://www.sciencedirect.com/science/article/pii/S0022249608001181) (Journal of Mathematical Psychology, 2009)
 * {2025-02-13} [Decision Theory, Reinforcement Learning, and The Brain](https://link.springer.com/article/10.3758/cabn.8.4.429) (Cognitive, Affective, & Behavioral Neuroscience, 2008)
 * {2025-02-12} [The Computational Neurobiology of Learning and Reward](https://pubmed.ncbi.nlm.nih.gov/16563737/) (Current Opinion in Neurobiology, 2006)
 * {2024-06-03} [Neural Correlates and Mechanisms of Trust](https://link.springer.com/chapter/10.1007/978-3-030-34784-0_22) (Neuroergonomics, 2020)
