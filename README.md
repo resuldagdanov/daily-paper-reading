@@ -149,7 +149,8 @@
 ----------------------------------------
 
 ### Human-Robot Collaboration
-* {2024-06-07} [When Humans Aren't Optimal: Robots that Collaborate with Risk-Aware Humans](https://dl.acm.org/doi/abs/10.1145/3319502.3374832) (HRI , 2020)
+* {2025-03-27} [Similarities and Differences Between Human–Human and Human–Automation Trust: An Integrative Review](https://www.tandfonline.com/doi/abs/10.1080/14639220500337708) (Theoretical Issues in Ergonomics Science, 2007)
+* {2024-06-07} [When Humans Aren't Optimal: Robots that Collaborate with Risk-Aware Humans](https://dl.acm.org/doi/abs/10.1145/3319502.3374832) (HRI, 2020)
 * {2024-03-15} [Human Trust in Robots: A Survey on Trust Models and Their Controls/Robotics Applications](https://ieeexplore.ieee.org/abstract/document/10366819) (Journal of Control Systems , 2023)
 * {2024-01-23} [Robot Learning on the Job Human-in-the-Loop Autonomy and Learning During Deployment](https://www.roboticsproceedings.org/rss19/p005.pdf) (RSS, 2023)
 * {2023-12-27} [Learning Human Objectives from Sequences of Physical Corrections](https://ieeexplore.ieee.org/abstract/document/9560829) (ICRA, 2021)
