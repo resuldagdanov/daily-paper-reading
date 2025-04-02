@@ -50,6 +50,7 @@
 ----------------------------------------
 
 ### Psychology Perspective on Trust
+* {2025-04-02} [“It's not Paul, It's a Robot”: The Impact of Linguistic Framing and the Evolution of Trust and Distrust in a Collaborative Robot During a Human-Robot Interaction](https://www.sciencedirect.com/science/article/pii/S1071581923001040) (International Journal of Human-Computer Studies, 2023)
 * {2025-03-20} [The Role of Trust in Automation Reliance](https://www.sciencedirect.com/science/article/pii/S1071581903000387) (International Journal of Human-Computer Studies, 2003)
 * {2024-11-12} [Trust: An Integrative Review From a Person-Situation Perspective](https://journals.sagepub.com/doi/10.1037/gpr0000046) (Review of General Psychology, 2015)
 * {2024-10-29} [You Want Me to Trust a ROBOT? The Development of a Human-Robot Interaction Trust Scale](https://link.springer.com/article/10.1007/s12369-012-0144-0) (IJSR, 2012)
