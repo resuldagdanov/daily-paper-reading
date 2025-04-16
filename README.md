@@ -50,6 +50,7 @@
 ----------------------------------------
 
 ### Psychology Perspective on Trust
+* {2025-04-16} [A Review on Human-Machine Trust Evaluation: Human-Centric and Machine-Centric Perspectives](https://ieeexplore.ieee.org/abstract/document/9720720) (Transactions on Human-Machine Systems, 2022)
 * {2025-04-02} [“It's not Paul, It's a Robot”: The Impact of Linguistic Framing and the Evolution of Trust and Distrust in a Collaborative Robot During a Human-Robot Interaction](https://www.sciencedirect.com/science/article/pii/S1071581923001040) (International Journal of Human-Computer Studies, 2023)
 * {2025-03-20} [The Role of Trust in Automation Reliance](https://www.sciencedirect.com/science/article/pii/S1071581903000387) (International Journal of Human-Computer Studies, 2003)
 * {2024-11-12} [Trust: An Integrative Review From a Person-Situation Perspective](https://journals.sagepub.com/doi/10.1037/gpr0000046) (Review of General Psychology, 2015)
