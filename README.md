@@ -97,6 +97,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2025-04-17} [Promoting Trust in Industrial Human-Robot Collaboration Through Preference-Based Optimization](https://ieeexplore.ieee.org/abstract/document/10669204) (RAL, 2024)
 * {2025-03-28} [A Game-Theoretic Model of Trust in Human-Robot Teaming: Guiding Human Observation Strategy for Monitoring Robot Behavior](https://ieeexplore.ieee.org/document/10776782) (Transactions on Human-Machine Systems, 2020)
 * {2025-03-18} [Evaluating Effects of User Experience and System Transparency on Trust in Automation](https://dl.acm.org/doi/abs/10.1145/2909824.3020230) (HRI, 2017)
 * {2025-03-17} [Impacts of Robot Beep Timings on Trust Dynamics in Human-Robot Interaction](https://link.springer.com/article/10.1007/s12369-024-01181-7) (IJSR, 2024)
