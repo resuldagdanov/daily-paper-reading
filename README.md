@@ -153,6 +153,7 @@
 ----------------------------------------
 
 ### Human-Robot Collaboration
+* {2025-04-29} [A Systematic Review of Trust Assessments in Human-Robot Interaction](https://dl.acm.org/doi/full/10.1145/3706123) (ACM Transactions on Human-Robot Interaction, 2025)
 * {2025-03-27} [Similarities and Differences Between Human–Human and Human–Automation Trust: An Integrative Review](https://www.tandfonline.com/doi/abs/10.1080/14639220500337708) (Theoretical Issues in Ergonomics Science, 2007)
 * {2024-06-07} [When Humans Aren't Optimal: Robots that Collaborate with Risk-Aware Humans](https://dl.acm.org/doi/abs/10.1145/3319502.3374832) (HRI, 2020)
 * {2024-03-15} [Human Trust in Robots: A Survey on Trust Models and Their Controls/Robotics Applications](https://ieeexplore.ieee.org/abstract/document/10366819) (Journal of Control Systems , 2023)
