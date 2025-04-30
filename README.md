@@ -5,6 +5,8 @@
 
 ## Content Topics
 
+&#8594; [Trust-Aware Decision-Making](#trust-aware-decision-making)
+
 &#8594; [Psychology Perspective on Trust](#psychology-perspective-on-trust)
 
 &#8594; [Science Behind Human Trust](#science-behind-human-trust)
@@ -46,6 +48,21 @@
 &#8594; [Evolutionary Training](#evolutionary-training)
 
 &#8594; [Population Based Training](#population-based-training)
+
+----------------------------------------
+
+### Trust-Aware Decision-Making
+* {2025-04-17} [Promoting Trust in Industrial Human-Robot Collaboration Through Preference-Based Optimization](https://ieeexplore.ieee.org/abstract/document/10669204) (RAL, 2024)
+* {2024-10-31} [Toward Efficient Manufacturing Systems: a Trust Based Human Robot Collaboration](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/7963171/) (ACC, 2017)
+* {2024-03-29} [A Kalman Estimation Model of Human Trust in Supervisory Control of Robotic Swarms](https://journals.sagepub.com/doi/abs/10.1177/1071181320641075) (HFES, 2020)
+* {2024-01-25} [Modeling and Control of Trust in Human and Robot Collaborative Manufacturing](https://link.springer.com/chapter/10.1007/978-1-4899-7668-0_7) (RITAS, 2016)
+* {2023-12-03} [Getting to Know One Another: Calibrating Intent, Capabilities and Trust for Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9340736) (IROS, 2020)
+* {2023-11-04} [Towards a Theory of Longitudinal Trust Calibration in Human-Robot Teams](https://link.springer.com/article/10.1007/s12369-019-00596-x) (IJRS, 2019)
+* {2023-10-09} [Trust-Aware Motion Planning for Human-Robot Collaboration under Distribution Temporal Logic Specifications](https://arxiv.org/abs/2310.01163) (2023)
+* {2023-10-05} [Modeling and Predicting Trust Dynamics in Human-Robot Teaming: A Bayesian Inference Approach](https://link.springer.com/article/10.1007/s12369-020-00703-3) (IJSR, 2020)
+* {2023-10-03} [Reverse Psychology in Trust-Aware Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9382074) (RAL, 2021)
+* {2023-09-11} [Trust-Aware Decision Making for Human-Robot Collaboration: Model Learning and Planning](https://dl.acm.org/doi/abs/10.1145/3359616) (THRI, 2020)
+* {2023-06-27} [Planning with Trust for Human-Robot Collaboration](https://dl.acm.org/doi/abs/10.1145/3171221.3171264) (HRI, 2018)
 
 ----------------------------------------
 
@@ -97,28 +114,23 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
-* {2025-04-17} [Promoting Trust in Industrial Human-Robot Collaboration Through Preference-Based Optimization](https://ieeexplore.ieee.org/abstract/document/10669204) (RAL, 2024)
 * {2025-03-28} [A Game-Theoretic Model of Trust in Human-Robot Teaming: Guiding Human Observation Strategy for Monitoring Robot Behavior](https://ieeexplore.ieee.org/document/10776782) (Transactions on Human-Machine Systems, 2020)
 * {2025-03-18} [Evaluating Effects of User Experience and System Transparency on Trust in Automation](https://dl.acm.org/doi/abs/10.1145/2909824.3020230) (HRI, 2017)
 * {2025-03-17} [Impacts of Robot Beep Timings on Trust Dynamics in Human-Robot Interaction](https://link.springer.com/article/10.1007/s12369-024-01181-7) (IJSR, 2024)
 * {2025-02-18} [In Human-Machine trust, Humans Rely on a Simple Averaging Strategy](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-024-00583-5) (Cognitive Research: Principles and Implications, 2024)
-* {2024-10-31} [Toward Efficient Manufacturing Systems: a Trust Based Human Robot Collaboration](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/7963171/) (ACC, 2017)
 * {2024-06-04} [Human Trust in Robots: A Survey on Trust Models and Their Controls/Robotics Applications](https://ieeexplore.ieee.org/abstract/document/10366819) (Journal of Control Systems, 2023)
 * {2024-04-21} [Modeling Other Minds: Bayesian Inference Explains Human Choices in Group Decision-Making](https://www.science.org/doi/full/10.1126/sciadv.aax8783) (Science Advances, 2019)
 * {2024-04-19} [Continuous Ratings in Discrete Bayesian Reputation Systems](https://link.springer.com/chapter/10.1007/978-0-387-09428-1_10) (ICTM, 2008)
 * {2024-04-18} [The Beta Reputation System](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6ca3e2014e552f9a53a5b98d68b526a156f2e93f) (Electronic Commerce Conference, 2002)
 * {2024-04-17} [A Survey of Trust and Reputation Systems for Online Service Provision](https://www.sciencedirect.com/science/article/abs/pii/S0167923605000849) (Decision Support Systems, 2007)
-* {2024-03-29} [A Kalman Estimation Model of Human Trust in Supervisory Control of Robotic Swarms](https://journals.sagepub.com/doi/abs/10.1177/1071181320641075) (HFES, 2020)
 * {2024-03-28} [Dynamic Trust Metrics for Peer-to-Peer Systems](https://ieeexplore.ieee.org/abstract/document/1508367) (DEXA, 2005)
 * {2024-03-26} [A Bayesian Trust Inference Model for Human-Multi-Robot Teams](https://link.springer.com/article/10.1007/s12369-020-00705-1) (IJSR, 2021)
-* {2024-01-25} [Modeling and Control of Trust in Human and Robot Collaborative Manufacturing](https://link.springer.com/chapter/10.1007/978-1-4899-7668-0_7) (RITAS, 2016)
 * {2023-12-06} [Enabling Team of Teams: A Trust Inference and Propagation (TIP) Model in Multi-Human Multi-Robot Teams](https://arxiv.org/abs/2305.12614) (RSS, 2023)
 * {2023-11-30} [Models of Trust in Human Control of Swarms With Varied Levels of Autonomy](https://ieeexplore.ieee.org/abstract/document/8651317) (Transactions on Human-Machine Systems, 2019)
 * {2023-11-08} [Adaptive Trust Model for Multi-Agent Teaming Based on Reinforcement-Learning-Based Fusion](https://ieeexplore.ieee.org/abstract/document/10272285) (TETCI, 2023)
 * {2023-11-07} [Real-Time Trust Prediction in Conditionally Automated Driving Using Physiological Measures](https://ieeexplore.ieee.org/abstract/document/10201385) (ITS, 2023)
 * {2023-11-06} [Bayesian Optimization Based Trust Model for Human Multi-Robot Collaborative Motion Tasks in Offroad Environments](https://link.springer.com/article/10.1007/s12369-023-01011-2) (IJSR, 2023)
 * {2023-11-05} [A Unified Bi-Directional Model for Natural and Artificial Trust in Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9450023) (RAL, 2021)
-* {2023-11-04} [Towards a Theory of Longitudinal Trust Calibration in Human-Robot Teams](https://link.springer.com/article/10.1007/s12369-019-00596-x) (IJRS, 2019)
 * {2023-11-03} [OPTIMo: Online Probabilistic Trust Inference Model for Asymmetric Human-Robot Collaborations](https://dl.acm.org/doi/abs/10.1145/2696454.2696492) (HRI, 2015)
 * {2023-10-30} [A Survey on Trust Evaluation Based on Machine Learning](https://dl.acm.org/doi/abs/10.1145/3408292) (ACM Computing Surveys, 2020)
 * {2023-10-26} [Trust Modeling Based on Probabilistic Linguistic Term Sets and the MULTIMOORA Method](https://www.sciencedirect.com/science/article/pii/S0957417420306291) (Expert Systems With Applications, 2021)
@@ -126,8 +138,6 @@
 * {2023-10-23} [Computational Model of Robot Trust in Human Co-Worker for Physical Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9697360) (RAL, 2022)
 * {2023-10-11} [Multi-Task Trust Transfer for Human-Robot Interaction](https://journals.sagepub.com/doi/full/10.1177/0278364919866905) (IJRR, 2020)
 * {2023-10-10} [TIP: A Trust Inference and Propagation Model in Multi-Human Multi-Robot Teams](https://arxiv.org/abs/2301.10928) (HRI, 2023)
-* {2023-10-05} [Modeling and Predicting Trust Dynamics in Human-Robot Teaming: A Bayesian Inference Approach](https://link.springer.com/article/10.1007/s12369-020-00703-3) (IJSR, 2020)
-* {2023-10-03} [Reverse Psychology in Trust-Aware Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9382074) (RAL, 2021)
 * {2023-09-08} [Trust Dynamics and Verbal Assurances in Human Robot Physical Collaboration](https://www.frontiersin.org/articles/10.3389/frai.2021.703504/full) (Frontiers in Artificial Intelligence, 2021)
 * {2023-08-10} [Trust Measurement in Human-Autonomy Teams: Development of a Conceptual Toolkit](https://dl.acm.org/doi/full/10.1145/3530874) (ACM Transactions on Human-Robot Interaction, 2022)
 
@@ -161,22 +171,18 @@
 * {2023-12-27} [Learning Human Objectives from Sequences of Physical Corrections](https://ieeexplore.ieee.org/abstract/document/9560829) (ICRA, 2021)
 * {2023-12-05} [An Optimization-Based Human Behavior Modeling and Prediction for Human-Robot Collaborative Disassembly](https://ieeexplore.ieee.org/document/10156342) (ACC, 2023)
 * {2023-12-04} [Reward Shaping for Building Trustworthy Robots in Sequential Human-Robot Interaction](https://arxiv.org/abs/2308.00945) (IROS, 2023)
-* {2023-12-03} [Getting to Know One Another: Calibrating Intent, Capabilities and Trust for Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/9340736) (IROS, 2020)
 * {2023-11-10} [Partially Observable Markov Decision Processes in Robotics: A Survey](https://ieeexplore.ieee.org/abstract/document/9899480) (Transactions on Robotics, 2023)
 * {2023-10-22} [Robot Trust and Self-Confidence Based Role Arbitration Method for Physical Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/10160711) (ICRA, 2023)
-* {2023-10-09} [Trust-Aware Motion Planning for Human-Robot Collaboration under Distribution Temporal Logic Specifications](https://arxiv.org/abs/2310.01163) (2023)
 * {2023-09-20} [Efficient Model Learning from Joint-Action Demonstrations for Human-Robot Collaborative Tasks](https://dl.acm.org/doi/abs/10.1145/2696454.2696455) (HRI, 2015)
 * {2023-09-14} [Maintaining Efficient Collaboration with Trust-Seeking Robots](https://ieeexplore.ieee.org/abstract/document/7759510) (IROS, 2016)
 * {2023-09-13} [Human Modeling in Physical Human-Robot Interaction: A Brief Survey](https://ieeexplore.ieee.org/abstract/document/10185034) (RAL, 2023)
 * {2023-09-12} [Efficient and Trustworthy Social Navigation via Explicit and Implicit Robot-Human Communication](https://ieeexplore.ieee.org/abstract/document/8967120) (Transactions on Robotics, 2020)
-* {2023-09-11} [Trust-Aware Decision Making for Human-Robot Collaboration: Model Learning and Planning](https://dl.acm.org/doi/abs/10.1145/3359616) (THRI, 2020)
 * {2023-09-07} [A Hierarchical Human-Robot Interaction-Planning Framework for Task Allocation in Collaborative Industrial Assembly Processes](https://ieeexplore.ieee.org/abstract/document/7421993) (RAL, 2017)
 * {2023-09-06} [Prediction of Human Activity Patterns for Human–Robot Collaborative Assembly Tasks](https://ieeexplore.ieee.org/abstract/document/8542683) (Transactions on Industrial Informatics, 2019)
 * {2023-08-25} [What Information Should a Robot Convey?](https://ieeexplore.ieee.org/abstract/document/9635999) (IROS, 2021)
 * {2023-08-23} [An Empirical Study of Reward Explanations With Human-Robot Interaction Applications](https://ieeexplore.ieee.org/abstract/document/9822391) (RAL, 2022)
 * {2023-06-29} [Human Modeling for Human–Robot Collaboration](https://journals.sagepub.com/doi/full/10.1177/0278364917690592) (IJRR, 2017)
 * {2023-06-28} [Studying Human Robot Interaction and Its Characteristics](https://journals.gaftim.com/index.php/ijcim/article/view/73) (IJSR, 2022)
-* {2023-06-27} [Planning with Trust for Human-Robot Collaboration](https://dl.acm.org/doi/abs/10.1145/3171221.3171264) (HRI, 2018)
 
 ----------------------------------------
 
