@@ -1,55 +1,45 @@
-# daily-paper-reading
+# 📚 Research Paper Readings
 ¯\_( ͡❛ ͜ʖ ͡❛)_/¯ Just recording papers I read everyday ;)
 
-----------------------------------------
+> A personal collection of research papers I've read, organized by topics and categories.
 
-## Content Topics
+## 🔍 Quick Navigation
 
-&#8594; [Trust-Aware Decision-Making](#trust-aware-decision-making)
+### 🧠 Trust & Human-Machine Interaction
+- [Trust-Aware Decision-Making](#trust-aware-decision-making)
+- [Psychology Perspective on Trust](#psychology-perspective-on-trust)
+- [Science Behind Human Trust](#science-behind-human-trust)
+- [Dynamic Modeling of Trust in Autonomy](#dynamic-modeling-of-trust-in-autonomy)
+- [Human-Autonomy Teaming](#human-autonomy-teaming)
+- [Human-Robot Collaboration](#human-robot-collaboration)
 
-&#8594; [Psychology Perspective on Trust](#psychology-perspective-on-trust)
+### 🚗 Autonomous Driving
+- [Driving Scenario Identification-Classification](#driving-scenario-identification-classification)
+- [Black-Box Validation for Self-Driving](#black-box-validation-for-self-driving)
+- [Imitation Learning in Autonomous Driving](#imitation-learning-in-autonomous-driving)
+- [CARLA Autonomous Driving Challenge](#carla-autonomous-driving-challenge)
+- [Deep Reinforcement Learning in Autonomous Driving](#deep-reinforcement-learning-in-autonomous-driving)
 
-&#8594; [Science Behind Human Trust](#science-behind-human-trust)
+### 🤖 Machine Learning & AI
+- [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
+- [Graph-Based Reinforcement Learning](#graph-based-reinforcement-learning)
+- [Efficient Data Sampling](#efficient-data-sampling)
+- [Offline Reinforcement Learning](#offline-reinforcement-learning)
+- [Knowledge & Dataset Distillation](#knowledge-and-dataset-distillation)
+- [Multi-Agent Learning](#multi-agent-learning)
+- [Curriculum Learning](#curriculum-learning)
+- [Evolutionary Training](#evolutionary-training)
+- [Population Based Training](#population-based-training)
 
-&#8594; [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
+### 💼 Business & Economics
+- [Behavioral Economics and Business Models](#behavioral-economics-and-business-models)
 
-&#8594; [Behavioral Economics and Business Models](#behavioral-economics-and-business-models)
+### 🔋 Electric Vehicles
+- [Battery Management System for Electric Vehicles](#battery-management-system-for-electric-vehicles)
 
-&#8594; [Dynamic Modeling of Trust in Autonomy](#dynamic-modeling-of-trust-in-autonomy)
+---
 
-&#8594; [Human-Autonomy Teaming](#human-autonomy-teaming)
-
-&#8594; [Human-Robot Collaboration](#human-robot-collaboration)
-
-&#8594; [Driving Scenario Identification-Classification](#driving-scenario-identification-classification)
-
-&#8594; [Black-Box Validation for Self-Driving](#black-box-validation-for-self-driving)
-
-&#8594; [Battery Management System for Electric Vehicles](#battery-management-system-for-electric-vehicles)
-
-&#8594; [Graph-Based Reinforcement Learning](#graph-based-reinforcement-learning)
-
-&#8594; [Efficient Data Sampling](#efficient-data-sampling)
-
-&#8594; [Imitation Learning in Autonomous Driving](#imitation-learning-in-autonomous-driving)
-
-&#8594; [Offline Reinforcement Learning](#offline-reinforcement-learning)
-
-&#8594; [Knowledge & Dataset Distillation](#knowledge-and-dataset-distillation)
-
-&#8594; [CARLA Autonomous Driving Challenge](#carla-autonomous-driving-challenge)
-
-&#8594; [Deep Reinforcement Learning in Autonomous Driving](#deep-reinforcement-learning-in-autonomous-driving)
-
-&#8594; [Multi-Agent Learning](#multi-agent-learning)
-
-&#8594; [Curriculum Learning](#curriculum-learning)
-
-&#8594; [Evolutionary Training](#evolutionary-training)
-
-&#8594; [Population Based Training](#population-based-training)
-
-----------------------------------------
+## 📑 Detailed Categories
 
 ### Trust-Aware Decision-Making
 * {2025-04-17} [Promoting Trust in Industrial Human-Robot Collaboration Through Preference-Based Optimization](https://ieeexplore.ieee.org/abstract/document/10669204) (RAL, 2024)
@@ -69,7 +59,7 @@
 ### Psychology Perspective on Trust
 * {2025-05-07} [Impacts of Physical and Informational Failures on Worker–Autonomy Trust in Future Construction](https://ascelibrary.org/doi/abs/10.1061/JCEMD4.COENG-15241) (Journal of Construction Engineering & Management, 2025)
 * {2025-04-16} [A Review on Human-Machine Trust Evaluation: Human-Centric and Machine-Centric Perspectives](https://ieeexplore.ieee.org/abstract/document/9720720) (Transactions on Human-Machine Systems, 2022)
-* {2025-04-02} [“It's not Paul, It's a Robot”: The Impact of Linguistic Framing and the Evolution of Trust and Distrust in a Collaborative Robot During a Human-Robot Interaction](https://www.sciencedirect.com/science/article/pii/S1071581923001040) (International Journal of Human-Computer Studies, 2023)
+* {2025-04-02} ["It's not Paul, It's a Robot": The Impact of Linguistic Framing and the Evolution of Trust and Distrust in a Collaborative Robot During a Human-Robot Interaction](https://www.sciencedirect.com/science/article/pii/S1071581923001040) (International Journal of Human-Computer Studies, 2023)
 * {2025-03-20} [The Role of Trust in Automation Reliance](https://www.sciencedirect.com/science/article/pii/S1071581903000387) (International Journal of Human-Computer Studies, 2003)
 * {2024-11-12} [Trust: An Integrative Review From a Person-Situation Perspective](https://journals.sagepub.com/doi/10.1037/gpr0000046) (Review of General Psychology, 2015)
 * {2024-10-29} [You Want Me to Trust a ROBOT? The Development of a Human-Robot Interaction Trust Scale](https://link.springer.com/article/10.1007/s12369-012-0144-0) (IJSR, 2012)
