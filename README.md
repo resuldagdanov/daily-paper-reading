@@ -5,6 +5,9 @@
 
 ## 🔍 Quick Navigation
 
+### Industry 5.0
+- [Human-Centric Robotics](#human-centric-robotics)
+
 ### 🧠 Trust & Human-Machine Interaction
 - [Trust-Aware Decision-Making](#trust-aware-decision-making)
 - [Psychology Perspective on Trust](#psychology-perspective-on-trust)
@@ -40,6 +43,11 @@
 ---
 
 ## 📑 Detailed Categories
+
+### Human-Centric Robotics
+* {2025-07-15} [Industry 5.0 and Human-Robot Co-working](https://www.sciencedirect.com/science/article/pii/S1877050919312748) (Procedia Computer Science, 2019)
+
+----------------------------------------
 
 ### Trust-Aware Decision-Making
 * {2025-04-17} [Promoting Trust in Industrial Human-Robot Collaboration Through Preference-Based Optimization](https://ieeexplore.ieee.org/abstract/document/10669204) (RAL, 2024)
