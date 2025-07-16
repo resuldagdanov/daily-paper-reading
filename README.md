@@ -5,8 +5,9 @@
 
 ## 🔍 Quick Navigation
 
-### Industry 5.0
+### 🏭 Industry 5.0
 - [Human-Centric Robotics](#human-centric-robotics)
+- [Paradigm Shift in Manufacturing](#paradigm-shift-in-manufacturing)
 
 ### 🧠 Trust & Human-Machine Interaction
 - [Trust-Aware Decision-Making](#trust-aware-decision-making)
@@ -40,11 +41,16 @@
 ### 🔋 Electric Vehicles
 - [Battery Management System for Electric Vehicles](#battery-management-system-for-electric-vehicles)
 
----
+----------------------------------------
 
 ## 📑 Detailed Categories
 
 ### Human-Centric Robotics
+* {2025-07-16} [Human-Cyber-Physical System for Industry 5.0: A Review From a Human-Centric Perspective](https://ieeexplore.ieee.org/abstract/document/10424976) (Transactions on Automation Science and Engineering, 2024)
+
+----------------------------------------
+
+### Paradigm Shift in Manufacturing
 * {2025-07-15} [Industry 5.0 and Human-Robot Co-working](https://www.sciencedirect.com/science/article/pii/S1877050919312748) (Procedia Computer Science, 2019)
 
 ----------------------------------------
