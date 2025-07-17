@@ -46,6 +46,7 @@
 ## 📑 Detailed Categories
 
 ### Human-Centric Robotics
+* {2025-07-17} [Outlook on Human-Centric Manufacturing Towards Industry 5.0](https://www.sciencedirect.com/science/article/pii/S0278612522000164) (Journal of Manufacturing Systems, 2022)
 * {2025-07-16} [Human-Cyber-Physical System for Industry 5.0: A Review From a Human-Centric Perspective](https://ieeexplore.ieee.org/abstract/document/10424976) (Transactions on Automation Science and Engineering, 2024)
 
 ----------------------------------------
