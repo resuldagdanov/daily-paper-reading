@@ -46,12 +46,13 @@
 ## 📑 Detailed Categories
 
 ### Human-Centric Robotics
-* {2025-07-17} [Outlook on Human-Centric Manufacturing Towards Industry 5.0](https://www.sciencedirect.com/science/article/pii/S0278612522000164) (Journal of Manufacturing Systems, 2022)
+* {2025-07-18} [Proactive Human-Robot Collaboration: Mutual-Cognitive, Predictable, and Self-organising Perspectives](https://www.sciencedirect.com/science/article/pii/S0736584522001922) (Robotics and Computer-Integrated Manufacturing, 2023)
 * {2025-07-16} [Human-Cyber-Physical System for Industry 5.0: A Review From a Human-Centric Perspective](https://ieeexplore.ieee.org/abstract/document/10424976) (Transactions on Automation Science and Engineering, 2024)
 
 ----------------------------------------
 
 ### Paradigm Shift in Manufacturing
+* {2025-07-17} [Outlook on Human-Centric Manufacturing Towards Industry 5.0](https://www.sciencedirect.com/science/article/pii/S0278612522000164) (Journal of Manufacturing Systems, 2022)
 * {2025-07-15} [Industry 5.0 and Human-Robot Co-working](https://www.sciencedirect.com/science/article/pii/S1877050919312748) (Procedia Computer Science, 2019)
 
 ----------------------------------------
