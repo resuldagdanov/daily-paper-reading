@@ -58,6 +58,7 @@
 ----------------------------------------
 
 ### Trust-Aware Decision-Making
+* {2025-07-21} [Simulation Evidence of Trust Calibration: Using POMDP with Signal Detection Theory to Adapt Agent Features for Optimised Task Outcome During Human-Agent Collaboration](https://link.springer.com/article/10.1007/s12369-023-01041-w) (IJSR, 2023)
 * {2025-04-17} [Promoting Trust in Industrial Human-Robot Collaboration Through Preference-Based Optimization](https://ieeexplore.ieee.org/abstract/document/10669204) (RAL, 2024)
 * {2024-10-31} [Toward Efficient Manufacturing Systems: a Trust Based Human Robot Collaboration](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/7963171/) (ACC, 2017)
 * {2024-03-29} [A Kalman Estimation Model of Human Trust in Supervisory Control of Robotic Swarms](https://journals.sagepub.com/doi/abs/10.1177/1071181320641075) (HFES, 2020)
