@@ -115,6 +115,7 @@
 ----------------------------------------
 
 ### Behavioral Economics and Business Models
+* {2025-07-29} [Risk, Trust, and the Interaction of Perceived Ease of Use and Behavioral Control in Predicting Consumers' Use of Social Media for Transactions](https://www.sciencedirect.com/science/article/pii/S0747563217306404) (Computers in Human Behavior, 2018)
 * {2025-02-23} [Loss-Aversion or Loss-Attention: The impact of Losses on Cognitive Performance](https://www.sciencedirect.com/science/article/pii/S0010028512000898) (Cognitive Psychology, 2013)
 * {2024-11-11} [Examining Profiles for Robotic Risk Assessment: Does a Robot's Approach to Risk Affect User Trust?](https://dl-acm-org.ezproxy.lib.uts.edu.au/doi/abs/10.1145/3319502.3374804) (HRI, 2020)
 * {2024-09-03} [Advances In Prospect Theory: Cumulative Representation of Uncertainty](https://link.springer.com/article/10.1007/BF00122574) (Journal of Risk and Uncertainty, 1992)
