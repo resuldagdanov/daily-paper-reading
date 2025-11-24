@@ -88,6 +88,7 @@
 ----------------------------------------
 
 ### Science Behind Human Trust
+* {2025-11-24} [A Formulation of Computational Trust Based on Quantum Decision](https://link.springer.com/article/10.1007/s10796-015-9555-4) (information systems frontiers, 2015)
 * {2025-10-15} [Trust in AI and Its Role in the Acceptance of AI Technologies](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2050543) (International Journal of Human-Computer Interaction, 2022)
 * {2025-02-20} [Reinforcement Learning in the Brain](https://www.sciencedirect.com/science/article/pii/S0022249608001181) (Journal of Mathematical Psychology, 2009)
 * {2025-02-13} [Decision Theory, Reinforcement Learning, and The Brain](https://link.springer.com/article/10.3758/cabn.8.4.429) (Cognitive, Affective, & Behavioral Neuroscience, 2008)
