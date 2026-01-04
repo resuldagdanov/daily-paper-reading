@@ -76,6 +76,7 @@
 ----------------------------------------
 
 ### Psychology Perspective on Trust
+* {2026-01-04} [Incorporating Trust-in-Technology into Expectation Disconfirmation Theory](https://www.sciencedirect.com/science/article/pii/S0963868713000607) (Journal of Strategic Information Systems, 2014)
 * {2025-07-28} [Comparing Robot and Human Guided Personalization: Adaptive Exercise Robots are Perceived as More Competent and Trustworthy](https://link.springer.com/article/10.1007/S12369-020-00629-W) (IJSR, 2021)
 * {2025-06-04} [Formalising Trust as a Computational Concept](https://www.semanticscholar.org/paper/Formalising-Trust-as-a-Computational-Concept-Marsh/8c584c4820e615aaf3c40a6737315c712ecd6927) (PhD Thesis, 1994)
 * {2025-05-07} [Impacts of Physical and Informational Failures on Worker–Autonomy Trust in Future Construction](https://ascelibrary.org/doi/abs/10.1061/JCEMD4.COENG-15241) (Journal of Construction Engineering & Management, 2025)
