@@ -132,9 +132,10 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2026-02-11} [Cognitive Modelling of Visual Attention Captures Trust Dynamics in Human–Robot Collaboration](https://dl.acm.org/doi/10.1145/3732795) (ACM Transactions on Human-Robot Interaction, 2025)
 * {2026-02-10} [Estimating Trust in Human-Robot Collaboration Through Behavioral Indicators and Explainability](https://ieeexplore.ieee.org/abstract/document/11129656/) (RAL, 2025)
 * {2025-08-11} [Modelling Perceived Risk and Trust in Driving Automation Reacting to Merging and Braking Vehicles](https://www.sciencedirect.com/science/article/pii/S1369847822000407) (Transportation Research Part F, 2022)
-* {2025-03-28} [A Game-Theoretic Model of Trust in Human-Robot Teaming: Guiding Human Observation Strategy for Monitoring Robot Behavior](https://ieeexplore.ieee.org/document/10776782) (Transactions on Human-Machine Systems, 2020)
+* {2025-03-28} [A Game-Theoretic Model of Trust in Human-Robot Teaming: Guiding Human Observation Strategy for Monitoring Robot Behavior](https://ieeexplore.ieee.org/document/10776782) (Transactions on Human-Machine Systems, 2024)
 * {2025-03-18} [Evaluating Effects of User Experience and System Transparency on Trust in Automation](https://dl.acm.org/doi/abs/10.1145/2909824.3020230) (HRI, 2017)
 * {2025-03-17} [Impacts of Robot Beep Timings on Trust Dynamics in Human-Robot Interaction](https://link.springer.com/article/10.1007/s12369-024-01181-7) (IJSR, 2024)
 * {2025-02-18} [In Human-Machine trust, Humans Rely on a Simple Averaging Strategy](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-024-00583-5) (Cognitive Research: Principles and Implications, 2024)
