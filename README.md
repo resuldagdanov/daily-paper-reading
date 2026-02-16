@@ -132,6 +132,7 @@
 ----------------------------------------
 
 ### Dynamic Modeling of Trust in Autonomy
+* {2026-02-16} [Predicting Trust Dynamics Type Using Seven Personal Characteristics](https://ieeexplore.ieee.org/abstract/document/11268545) (Transactions on Human-Machine Systems, 2025)
 * {2026-02-11} [Cognitive Modelling of Visual Attention Captures Trust Dynamics in Human–Robot Collaboration](https://dl.acm.org/doi/10.1145/3732795) (ACM Transactions on Human-Robot Interaction, 2025)
 * {2026-02-10} [Estimating Trust in Human-Robot Collaboration Through Behavioral Indicators and Explainability](https://ieeexplore.ieee.org/abstract/document/11129656/) (RAL, 2025)
 * {2025-08-11} [Modelling Perceived Risk and Trust in Driving Automation Reacting to Merging and Braking Vehicles](https://www.sciencedirect.com/science/article/pii/S1369847822000407) (Transportation Research Part F, 2022)
