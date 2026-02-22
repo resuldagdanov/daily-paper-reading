@@ -58,6 +58,7 @@
 ----------------------------------------
 
 ### Trust-Aware Decision-Making
+* {2026-02-22} [Effects of Failure Types on Trust Repairs in Human-Robot Interactions](https://link.springer.com/article/10.1007/s12369-023-01059-0) (IJSR, 2023)
 * {2025-11-29} [AI Apology: A Critical Review of Apology in AI Systems](https://link.springer.com/article/10.1007/s10462-025-11305-8) (Artificial Intelligence Review, 2025)
 * {2025-08-13} [The Effect of Voice and Repair Strategy on Trust Formation and Repair in Human-Robot Interaction](https://dl.acm.org/doi/full/10.1145/3711938) (ACM Transactions on Human-Robot Interaction, 2025)
 * {2025-07-21} [Simulation Evidence of Trust Calibration: Using POMDP with Signal Detection Theory to Adapt Agent Features for Optimised Task Outcome During Human-Agent Collaboration](https://link.springer.com/article/10.1007/s12369-023-01041-w) (IJSR, 2023)
