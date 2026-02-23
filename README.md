@@ -46,6 +46,7 @@
 ## 📑 Detailed Categories
 
 ### Human-Centric Robotics
+* {2026-02-23} [The Dynamic Nature of Trust: Trust in Human-Robot Interaction Revisited](https://arxiv.org/abs/2303.04841) (2023)
 * {2025-07-18} [Proactive Human-Robot Collaboration: Mutual-Cognitive, Predictable, and Self-organising Perspectives](https://www.sciencedirect.com/science/article/pii/S0736584522001922) (Robotics and Computer-Integrated Manufacturing, 2023)
 * {2025-07-16} [Human-Cyber-Physical System for Industry 5.0: A Review From a Human-Centric Perspective](https://ieeexplore.ieee.org/abstract/document/10424976) (Transactions on Automation Science and Engineering, 2024)
 
